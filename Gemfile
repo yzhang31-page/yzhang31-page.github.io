@@ -13,3 +13,4 @@ gem "jekyll-feed"
 gem "jemoji"
 gem 'jekyll-gallery-generator'
 gem 'jekyll-redirect-from'
+gem 'jekyll-titles-from-headings'

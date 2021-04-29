@@ -7,7 +7,6 @@ titles: More
 ## There is more to life ☕️ than work 💻. 
 
 <div>
-
 <p> I’m <b>Yue</b> 🌝 when not being Dr Li. </p>
 
 <p> 📍 I live in <b>Suzhou</b>, a city located in the east of China with more than 2500 years of history. </p> 
