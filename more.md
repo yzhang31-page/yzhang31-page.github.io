@@ -19,7 +19,7 @@ It trains my determination, focus, endurance and strength 💪. <br>
 It fights depression and rewards me with confidence and satisfaction from well-earned victory ✌️. <br>
 It brings me to the beautiful natural areas and heights 🏔 that I’ll never reach otherwise. <br>
 </ul>
-The best part is always the amazing the <b>people</b> that I meet, climb together and become <b>friends</b> with 👭.
+The best part is always the amazing <b>people</b> that I meet, climb together and become <b>friends</b> with 👭.
 </p>
 <p> I also practice <em>yoga</em> 🧘‍♀️, <em>dancing</em> 💃, <em>snowboarding</em> 🏂 and <em>diving</em> (AOW) 🤿, and I am always happy to try new things. </p> 
 </div>
