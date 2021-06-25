@@ -233,6 +233,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 -->
 
 ## Research Grants and Scholarships
+- **PI**, Engaging Students in Exploratory Modules Using Virtual Reality, XJTLU. TDF20/21-R22-142, 50,000 RMB, 2021-2023.
 - **Member**, Cultural Heritage and Cross-Border Digital Communication in the Terrestrial and Maritime Silk Road: Facilitating the Construction of a Cloud-Based Heritage Open VR Social Database. PI: Prof Eugene Ch'ng. Ningbo Science and Technology Bureau. 300,000 RMB, 2018-2021. 宁波市重大科技专项项目，2017D10035，海陆丝绸之路上的文化遗产和跨境数字通信：构建兼具开放性、社交性和虚拟现实技术的文化遗产云端共享数据库.
 - **Member**, R & D and Practice of Key Technologies in Virtual Reality System Development of Chinese Culture and Education-Based Museum Collections. PI: Prof Eugene Ch'ng. Zhejiang Science and Technology Bureau. 150,000 RMB, 2016-2018. 浙江省公益技术应用研究，2017C33029，基于博物馆馆藏的中国文化教育虚拟现实系统开发的关键技术研发及实践.
 - **PhD Scholarship**, International Doctoral Innovation Centre. Sponsored by Ningbo Education Bureau, Ningbo Science and Technology Bureau, Ministry of Science and Technology of the People's Republic of China, and University of Nottingham. RCUK Grant No. EP/L015463/1. Tuition fee waiver + ~300,000 RMB stipend, 2016-2020.
