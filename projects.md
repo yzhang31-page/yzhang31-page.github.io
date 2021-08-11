@@ -35,19 +35,19 @@ See [IOM411](http://modules.xjtlu.edu.cn/mod?mod_code=IOM001) for more details.
 #### Project 3: Engaging Spectators in Virtual Reality
 Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR and to provide guidelines for designing socially acceptable VR experience.
 
-#### Student Projects
+## Student Projects
 I am happy to supervise student dissertations and final year projects in SAT301, SAT405 and SAT406, as well as summer research for HCI/VR/AR related projects.
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
-##### AY2021-2022 Master students and projects (FMP)
+#### AY2021-2022 Master students and projects (FMP)
 - Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls
 - Jiayou Huang, BurnMyCalories: Comparing Workouts with Nitendo Switch and Virtual Reality
 - Jie Lin, CubeMuseum: Personalised Museum Collections with Augmented Reality
 - Ninigning Xu, ARestoration: Experiencing Cultural Relic Restoration with Augmented Reality
 - Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
 
-##### AY2021-2022 Undergraduate students and projects (FYP)
+#### AY2021-2022 Undergraduate students and projects (FYP)
 - TBC, Project 1	Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
 - TBC, Project 2	Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
 - TBC, Project 3	An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓）
@@ -57,7 +57,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术
 - Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类
 
-##### AY2020-2021 Summer Undergraduate Research Fellowship (SURF) Students
+#### AY2020-2021 Summer Undergraduate Research Fellowship (SURF) Students
 - Ruizhe Kan
 - Jiangyue Li
 - Xingbo Wei
@@ -66,7 +66,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Ningning Xu
 - Ruixiang Zhao
 
-##### AY2020-2021 Undergraduate students and projects (FYP)
+#### AY2020-2021 Undergraduate students and projects (FYP)
 - Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network (with Distinction)
 - Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples
 
