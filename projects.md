@@ -57,14 +57,46 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术
 - Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类
 
-#### AY2020-2021 Summer Undergraduate Research Fellowship (SURF) Students
-- Ruizhe Kan
-- Jiangyue Li
-- Xingbo Wei
-- Mingze Wu
-- Letian Xie
-- Ningning Xu
-- Ruixiang Zhao
+#### AY2020-2021 Summer Undergraduate Research Fellowship (SURF)
+
+<div class="grid-container" style="padding:10px">
+  <div class="grid grid--p-3">
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-surf1.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>VR Museum Curator</h4>
+            </div>
+            <p> SURF students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao.</p>
+            <p> @ XJTLU, Suzhou. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-surf2.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>Magic Cube AR</h4>
+            </div>
+            <p> SURF students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
+            <p> @ XJTLU, Suzhou. </p>
+            <p>
+            </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+  </div>
+</div>
 
 #### AY2020-2021 Undergraduate students and projects (FYP)
 - Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network (with Distinction)
