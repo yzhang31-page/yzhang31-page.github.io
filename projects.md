@@ -62,6 +62,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Jiangyue Li
 - Xingbo Wei
 - Mingze Wu
+- Letian Xie
 - Ningning Xu
 - Ruixiang Zhao
 
