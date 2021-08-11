@@ -6,18 +6,68 @@ titles: Projects
 ---
 
 ## Current Projects
-#### Engaging Spectators in Virtual Reality
-Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of
-head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson
-perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social
-interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR
-and to provide guidelines for designing socially acceptable VR experience.
+
+**I am recruiting <span style="color: red;">research assistants</span> for my research projects.** Qualified RAs will be paid based on the XJTLU student salary standard. 
+
+If you have experience and interest in requirement analysis, VR development and 3D modelling, please feel free to send me an email: yue.li@xjtlu.edu.cn. 
+
+#### Project 1: Engaging Students in Exploratory Modules Using Virtual Reality
+This project seeks to leverage Virtual Reality (VR) technologies to facilitate the learning and teaching of exploratory modules at XJTLU. This project aims to combine and apply the lessons learned from previous VR practices in the School of Design (DES) and the School of Advanced Technology (SAT), and to further explore the use of VR in two exploratory modules: DES001 Explore Design and SAT001 Explore Advanced Technology. Specifically, this project will contribute to (1) a clarified understanding of students’ and instructors’ needs of VR in learning and teaching; (2) enhanced student engagement in learning activities and better delivery of the subject matter of the degree programmes within DES and SAT via a technology-enhanced approach; and (3) a user-centred system design - Explore001 VR system, which can be continuously used in future learning and teaching activities and for general demonstrations of design and advanced technology topics to a wider audience.
+
+**Essential skills for RAs:**
+1. Requirement collection and analysis
+2. VR development with Unity
+3. Strong communication skills
+
+See [DES001](http://modules.xjtlu.edu.cn/mod?mod_code=DES001) and [SAT001](http://modules.xjtlu.edu.cn/mod?mod_code=SAT001) for more details.
+
+#### Project 2: Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution
+This project aims to develop a virtual warehouse management scene that students could get into and fulfill typical tasks such as receiving, put away, inventory transfer, packing, and dispatching, etc. in a role-playing model by wearing VR goggles. Specifically, two episodes including an inbound material receiving process and an outbound material dispatching process will be developed in the virtual scene for students. An instructor manual and student manual guiding the VR technology integrated learning and teaching in the classroom will also be developed accompany with the virtual environment construction. The ultimate goal is to provide an immerse learning environment for students to enhance their understanding of warehouse management activities in this module.
+
+**Essential skills for RAs:**
+1. 3D modelling
+2. VR development with Unity
+3. Domain knowledge about logistics and physical distribution
+
+See [IOM411](http://modules.xjtlu.edu.cn/mod?mod_code=IOM001) for more details.
+
+
+#### Project 3: Engaging Spectators in Virtual Reality
+Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR and to provide guidelines for designing socially acceptable VR experience.
 
 #### Student Projects
 I am happy to supervise student dissertations and final year projects in SAT301, SAT405 and SAT406, as well as summer research for HCI/VR/AR related projects.
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
+##### AY2021-2022 Master students and projects (FMP)
+- Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls
+- Jiayou Huang, BurnMyCalories: Comparing Workouts with Nitendo Switch and Virtual Reality
+- Jie Lin, CubeMuseum: Personalised Museum Collections with Augmented Reality
+- Ninigning Xu, ARestoration: Experiencing Cultural Relic Restoration with Augmented Reality
+- Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
+
+##### AY2021-2022 Undergraduate students and projects (FYP)
+- TBC, Project 1	Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
+- TBC, Project 2	Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
+- TBC, Project 3	An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓）
+- TBC, Project 4	An Application to Support Boulder Problems Creation in Gyms (WeChat) 体育馆抱石线路标记 App （微信小程序）
+- Ruizhe Kan, Collaborative Experience between Virtual Reality Users and Spectators 虚拟现实用户和观众之间的协作体验
+- Jiangyue Li, Informed or Interrupted: Exploring the Impact of Different Message Notification Methods in Virtual Reality 探索虚拟现实中不同消息通知方法的影响
+- Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术
+- Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类
+
+##### AY2020-2021 Summer Undergraduate Research Fellowship (SURF) Students
+- Ruizhe Kan
+- Jiangyue Li
+- Xingbo Wei
+- Mingze Wu
+- Ningning Xu
+- Ruixiang Zhao
+
+##### AY2020-2021 Undergraduate students and projects (FYP)
+- Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network (with Distinction)
+- Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples
 
 
 ## Past Projects
@@ -233,6 +283,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 -->
 
 ## Research Grants and Scholarships
+- **PI**, Engaging Spectators in Virtual Reality. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-2024.
 - **PI**, Engaging Students in Exploratory Modules Using Virtual Reality, XJTLU. TDF20/21-R22-142, 50,000 RMB, 2021-2023.
 - **Member**, Cultural Heritage and Cross-Border Digital Communication in the Terrestrial and Maritime Silk Road: Facilitating the Construction of a Cloud-Based Heritage Open VR Social Database. PI: Prof Eugene Ch'ng. Ningbo Science and Technology Bureau. 300,000 RMB, 2018-2021. 宁波市重大科技专项项目，2017D10035，海陆丝绸之路上的文化遗产和跨境数字通信：构建兼具开放性、社交性和虚拟现实技术的文化遗产云端共享数据库.
 - **Member**, R & D and Practice of Key Technologies in Virtual Reality System Development of Chinese Culture and Education-Based Museum Collections. PI: Prof Eugene Ch'ng. Zhejiang Science and Technology Bureau. 150,000 RMB, 2016-2018. 浙江省公益技术应用研究，2017C33029，基于博物馆馆藏的中国文化教育虚拟现实系统开发的关键技术研发及实践.
