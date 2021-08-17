@@ -85,7 +85,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Magic Cube AR</h4>
+              <h4>CubeMuseum AR</h4>
             </div>
             <p> SURF students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
             <p> @ XJTLU, Suzhou. </p>
