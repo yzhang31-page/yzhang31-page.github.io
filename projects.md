@@ -48,10 +48,11 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
 
 #### AY2021-2022 Undergraduate students and projects (FYP)
-- TBC, Project 1	Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
-- TBC, Project 2	Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
-- TBC, Project 3	An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓）
-- TBC, Project 4	An Application to Support Boulder Problems Creation in Gyms (WeChat) 体育馆抱石线路标记 App （微信小程序）
+- Haodong Liu, Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
+- Yuang Zhou, Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
+- Dingding Chen, An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓）
+- Junhan Lin, An Application to Support Boulder Problems Creation in Gyms (WeChat) 体育馆抱石线路标记 App （微信小程序）
+- Yihao Shu, Interaction Techniques for Large Object Selection and Manipulation in Virtual Reality 虚拟现实中大型物体的交互技术
 - Ruizhe Kan, Collaborative Experience between Virtual Reality Users and Spectators 虚拟现实用户和观众之间的协作体验
 - Jiangyue Li, Informed or Interrupted: Exploring the Impact of Different Message Notification Methods in Virtual Reality 探索虚拟现实中不同消息通知方法的影响
 - Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术
