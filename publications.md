@@ -7,6 +7,17 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-ismar.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p><b>Li Y.</b>, Yu, L., and Liang, H.-N. (2021). CubeMuseum: An Augmented Reality Prototype of Embodied Virtual Museum. ISMAR 2021: IEEE International Symposium on Mixed and Augmented Reality, Bari, Italy, 4-8 October 2021.</p>
+    </div>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/publication-ijhcs.png"/>
   </div>
   <div class="item__content">
@@ -22,7 +33,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Ch’ng E., Cobb S., and See S. (under review). Presence and Communication in Hybrid Virtual and Augmented Reality Environments, PRESENCE: Virtual and Augmented Reality.</p>
+      <p><b>Li Y.</b>, Ch’ng E., Cobb S., and See S. (2021). Presence and Communication in Hybrid Virtual and Augmented Reality Environments, PRESENCE: Virtual and Augmented Reality. http://dx.doi.org/10.1162/pres_a_00340</p>
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/354973645_Presence_and_Communication_in_Hybrid_Virtual_and_Augmented_Reality_Environments">PDF</a>
     </div>
   </div>
 </div>
