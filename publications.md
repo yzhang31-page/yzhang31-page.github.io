@@ -45,7 +45,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, and Ch’ng E. (forthcoming). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. Visual Heritage: Digital Approaches in Heritage Science, Springer.</p>
+      <p><b>Li Y.</b>, and Ch’ng E. (2021). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. Visual Heritage: Digital Approaches in Heritage Science, Springer.</p>
     </div>
   </div>
 </div>
@@ -68,7 +68,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p>Ch’ng E., <b>Li Y.</b>, Cai S. and Leow F-T. (2020). The Effects of VR Environments on the Acceptance, Experience and Expectations of Cultural Heritage Learning. ACM Journal on Computing and Cultural Heritage. https://doi.org/10.1145/3352933
+      <p>Ch’ng E., <b>Li Y.</b>, Cai S. and Leow F-T. (2020). The Effects of VR Environments on the Acceptance, Experience and Expectations of Cultural Heritage Learning. ACM Journal on Computing and Cultural Heritage. https://doi.org/10.1145/3352933.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/335527826_The_Effects_of_VR_Environments_on_the_Acceptance_Experience_and_Expectations_of_Cultural_Heritage_Learning">PDF</a>
       </p>
     </div>
