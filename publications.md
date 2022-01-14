@@ -5,39 +5,18 @@ titles: Publications
 #   toc: true
 ---
 
+
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-ismar.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-tochi.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Yu, L., and Liang, H.-N. (2021). CubeMuseum: An Augmented Reality Prototype of Embodied Virtual Museum. ISMAR 2021: IEEE International Symposium on Mixed and Augmented Reality, Bari, Italy, 4-8 October 2021.</p>
+      <p><b>Li, Y.</b>, Ch’ng, E., and Cobb, S. (under review). Effects of Object Interactivity, User Comments and Avatar Proximity on Engagement and Presence in Hybrid VR and AR Environments. ACM Transactions on Computer-Human Interaction.</p>
     </div>
   </div>
 </div>
 
-<div class="item" style="padding-bottom:10px">
-  <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-ijhcs.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__description">
-      <p><b>Li Y.</b>, Ch’ng E., and Cobb S. (under review). Effects of Object Interactivity, User Comments and Avatar Proximity on Engagement and Presence in Hybrid VR and AR Environments. International Journal of Human-Computer Studies.</p>
-    </div>
-  </div>
-</div>
-
-<div class="item" style="padding-bottom:10px">
-  <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-presence.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__description">
-      <p><b>Li Y.</b>, Ch’ng E., Cobb S., and See S. (2021). Presence and Communication in Hybrid Virtual and Augmented Reality Environments, PRESENCE: Virtual and Augmented Reality. http://dx.doi.org/10.1162/pres_a_00340</p>
-      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/354973645_Presence_and_Communication_in_Hybrid_Virtual_and_Augmented_Reality_Environments">PDF</a>
-    </div>
-  </div>
-</div>
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
@@ -45,30 +24,73 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, and Ch’ng E. (2021). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. Visual Heritage: Digital Approaches in Heritage Science, Springer.</p>
+      <p><b>Li, Y.</b>, and Ch’ng, E. (2022). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. Visual Heritage: Digital Approaches in Heritage Science, Springer.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-21-presence.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p><b>Li, Y.</b>, Ch’ng, E., Cobb, S., and See, S. (2021). Presence and Communication in Hybrid Virtual and Augmented Reality Environments, PRESENCE: Virtual and Augmented Reality. http://dx.doi.org/10.1162/pres_a_00340.
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/354973645_Presence_and_Communication_in_Hybrid_Virtual_and_Augmented_Reality_Environments">PDF</a>
+      </p>
     </div>
   </div>
 </div>
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-ccsat.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-21-sui.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Sun Q., Zhang C., Lim E., Liang H., and Yue Y. (2020), Digital Campus with Virtual Reality: from Immersive Visualization to Interactive Experience (Outstanding Paper Third Prize). In CCSAT 2020. Beijing, China, 17-19 September 2020.
-      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/344780928_Digital_Campus_with_Virtual_Reality_from_Immersive_Visualization_to_Interactive_Experience">PDF</a></p>
+      <p>Chen, L., Liu, Y., <b>Li, Y.</b>, Yu, L., Gao, B., Caon, M., Yue, Y., Liang, H.-N.* (2021). Effect of Visual Cues on Pointing Tasks in Co-located Augmented Reality Collaboration. SUI 2021: ACM Spatial User Interaction 2021. Virtual Conference. 9-10 November. https://doi.org/10.1145/3485279.3485297.
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/356065945_Effect_of_Visual_Cues_on_Pointing_Tasks_in_Co-located_Augmented_Reality_Collaboration">PDF</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-21-ismar.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p><b>Li, Y.</b>, Yu, L., and Liang, H.-N. (2021). CubeMuseum: An Augmented Reality Prototype of Embodied Virtual Museum. ISMAR 2021: IEEE International Symposium on Mixed and Augmented Reality, Bari, Italy, 4-8 October 2021. https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00014.
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/355042157_CubeMuseum_An_Augmented_Reality_Prototype_of_Embodied_Virtual_Museum">PDF</a>
+    </p>
+    </div>
+  </div>
+</div>
+
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-20-ccsat.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p><b>Li, Y.</b>, Sun, Q., Zhang, C., Lim, E., Liang, H., and Yue, Y. (2020), Digital Campus with Virtual Reality: from Immersive Visualization to Interactive Experience (Outstanding Paper Third Prize). In CCSAT 2020. Beijing, China, 17-19 September 2020.
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/344780928_Digital_Campus_with_Virtual_Reality_from_Immersive_Visualization_to_Interactive_Experience">PDF</a>
+      </p>
     </div>
   </div>
 </div>
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-jocch.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-20-jocch.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p>Ch’ng E., <b>Li Y.</b>, Cai S. and Leow F-T. (2020). The Effects of VR Environments on the Acceptance, Experience and Expectations of Cultural Heritage Learning. ACM Journal on Computing and Cultural Heritage. https://doi.org/10.1145/3352933.
+      <p>Ch’ng, E., <b>Li, Y.</b>, Cai, S. and Leow, F-T. (2020). The Effects of VR Environments on the Acceptance, Experience and Expectations of Cultural Heritage Learning. ACM Journal on Computing and Cultural Heritage. https://doi.org/10.1145/3352933.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/335527826_The_Effects_of_VR_Environments_on_the_Acceptance_Experience_and_Expectations_of_Cultural_Heritage_Learning">PDF</a>
       </p>
     </div>
@@ -77,11 +99,11 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-pacis.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-19-pacis.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Ma T., and Ch’ng E. (2019). Enhancing VR Experiential Learning through the Design of Embodied Interaction in a Shared Virtual Environment. 23rd Pacific Asia Conference on Information Systems (PACIS 2019), Xi’an, China, 9-12 July 2019. https://aisel.aisnet.org/pacis2019/185.
+      <p><b>Li, Y.</b>, Ma, T., and Ch’ng, E. (2019). Enhancing VR Experiential Learning through the Design of Embodied Interaction in a Shared Virtual Environment. 23rd Pacific Asia Conference on Information Systems (PACIS 2019), Xi’an, China, 9-12 July 2019. https://aisel.aisnet.org/pacis2019/185.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/335527592_Enhancing_VR_Experiential_Learning_through_the_Design_of_Embodied_Interaction_in_a_Shared_Virtual_Environment">PDF</a>
       </p>
     </div>
@@ -90,11 +112,11 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-appropriate.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-19-appropriate.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Tennent P., and Cobb S. (2019). Appropriate Control Methods for Mobile Virtual Exhibitions. In VR Technologies in Cultural Heritage (pp. 165–183). Communications in Computer and Information Science, vol 904. Springer, Cham. https://doi.org/10.1007/978-3-030-05819-7_13
+      <p><b>Li, Y.</b>, Tennent, P., and Cobb, S. (2019). Appropriate Control Methods for Mobile Virtual Exhibitions. In VR Technologies in Cultural Heritage (pp. 165–183). Communications in Computer and Information Science, vol 904. Springer, Cham. https://doi.org/10.1007/978-3-030-05819-7_13.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/329603560_Appropriate_Control_Methods_for_Mobile_Virtual_Exhibitions_First_International_Conference_VRTCH_2018_Brasov_Romania_May_29-30_2018_Revised_Selected_Papers">PDF</a>
       </p>
     </div>
@@ -103,11 +125,11 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-micho.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-18-micho.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Ch’ng E., Cai S., and See S. (2018). Multiuser Interaction with Hybrid VR and AR for Cultural Heritage Objects. In VSMM 2018, San Francisco, USA, 26-30 October 2018: IEEE. https: //doi.org/10.1109/DigitalHeritage.2018.8810126
+      <p><b>Li, Y.</b>, Ch’ng, E., Cai, S., and See, S. (2018). Multiuser Interaction with Hybrid VR and AR for Cultural Heritage Objects. In VSMM 2018, San Francisco, USA, 26-30 October 2018: IEEE. https: //doi.org/10.1109/DigitalHeritage.2018.8810126.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/326983773_Multiuser_Interaction_with_Hybrid_VR_and_AR_for_Cultural_Heritage_Objects">PDF</a>
       </p>
     </div>
@@ -116,11 +138,11 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-360vr.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-18-360vr.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p>Cai S., Ch’ng E., and <b>Li Y.</b>, A Comparison of the Capacities of VR and 360-Degree Video for Coordinating Memory in the Experience of Cultural Heritage. In VSMM 2018, San Francisco, USA, 26-30 October 2018: IEEE. https://doi.org/10.1109/DigitalHeritage.2018.8810127
+      <p>Cai, S., Ch’ng, E., and <b>Li, Y.</b>, A Comparison of the Capacities of VR and 360-Degree Video for Coordinating Memory in the Experience of Cultural Heritage. In VSMM 2018, San Francisco, USA, 26-30 October 2018: IEEE. https://doi.org/10.1109/DigitalHeritage.2018.8810127.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/327592428_A_Comparison_of_the_Capacities_of_VR_and_360-Degree_Video_for_Coordinating_Memory_in_the_Experience_of_Cultural_Heritage">PDF</a>
       </p>
     </div>
@@ -129,11 +151,11 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-vrtch.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-18-vrtch.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li Y.</b>, Tennent P., and Cobb S. (2018). Appropriate Control Methods for Mobile Virtual Exhibitions. In VR Technologies in Cultural Heritage. In Virtual Reality Technologies for Cultural Heritage (VRTCH’18). Brasov, Romania, 29-30 May 2018.
+      <p><b>Li, Y.</b>, Tennent, P., and Cobb, S. (2018). Appropriate Control Methods for Mobile Virtual Exhibitions. In VR Technologies in Cultural Heritage. In Virtual Reality Technologies for Cultural Heritage (VRTCH’18). Brasov, Romania, 29-30 May 2018.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/329603560_Appropriate_Control_Methods_for_Mobile_Virtual_Exhibitions_First_International_Conference_VRTCH_2018_Brasov_Romania_May_29-30_2018_Revised_Selected_Papers">PDF</a>
       </p>
     </div>

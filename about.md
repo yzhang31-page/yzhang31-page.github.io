@@ -33,6 +33,8 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 
 
 ## Honours and Awards
+- **First Prize**, Interaction Contest on Blended Teaching & Learning, 2021
+- **First Prize** *(Supervisor)*, China Competition on Virtual Reality, 2021
 - **Tri-Campus Postgraduate Award**, University of Nottingham, 2020
 - **Best Student Paper Award**, University of Nottingham, 2019
 - **Postgraduate Teaching Award Highly Commended**, University of Nottingham, 2019

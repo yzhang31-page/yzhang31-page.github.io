@@ -40,13 +40,6 @@ I am happy to supervise student dissertations and final year projects in SAT301,
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
-#### AY2021-2022 Master students and projects (FMP)
-- Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls
-- Jiayou Huang, BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality
-- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications
-- Ninigning Xu, Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach
-- Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
-
 #### AY2021-2022 Undergraduate students and projects (FYP)
 - Haodong Liu, Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
 - Yuang Zhou, Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
@@ -58,10 +51,101 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术
 - Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类
 
-#### AY2020-2021 Summer Undergraduate Research Fellowship (SURF)
+#### AY2021-2022 Master students and projects (FMP)
+- Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls
+- Jiayou Huang, BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality
+- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications
+- Ninigning Xu, Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach
+- Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
 
+#### AY2020-2021 Undergraduate students and projects (FYP)
+- Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network (🥇*Distinction*)
+- Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples
+
+
+## Past Projects
 <div class="grid-container" style="padding:10px">
   <div class="grid grid--p-3">
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-shiyingcai.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>PublicVR</h4>
+            </div>
+            <p> AY2021-2022 FMP. PublicVR: Virtual Reality Arcades in Chinese Shopping Malls. </p>
+            <p> Student: Shiying Cai. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-jiayouhuang.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>BurnMyCalories</h4>
+            </div>
+            <p> AY2021-2022 FMP. BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality </p>
+            <p> Student: Jiayou Huang. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-jielin.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>AR Cultural Heritage Learning</h4>
+            </div>
+            <p> AY2021-2022 FMP. An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications </p>
+            <p> Student: Jie Lin. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-ningningxu.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>Optimising CubeMuseum AR</h4>
+            </div>
+            <p> AY2021-2022 FMP. Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach </p>
+            <p> Student: Ningning Xu. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-enhaoyang.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>User Acceptance of 360° Virtual Navigation</h4>
+            </div>
+            <p> AY2021-2022 FMP. Investigating User Acceptance of 360° Virtual Navigation </p>
+            <p> Student: Enhao Yang. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -72,7 +156,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
             <div class="card__header">
               <h4>VR Museum Curator</h4>
             </div>
-            <p> SURF students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao.</p>
+            <p> 2021 SURF Project. Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao.</p>
             <p> @ XJTLU, Suzhou. </p>
           </div>
         </div>  
@@ -88,7 +172,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
             <div class="card__header">
               <h4>CubeMuseum AR</h4>
             </div>
-            <p> SURF students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
+            <p> 2021 SURF Project. Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
             <p> @ XJTLU, Suzhou. </p>
             <p>
             </p>
@@ -96,18 +180,6 @@ For XJTLU students who are interested in doing projects with me, please feel fre
         </div>  
       </div>
     </div>
-  </div>
-</div>
-
-#### AY2020-2021 Undergraduate students and projects (FYP)
-- Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network (with Distinction)
-- Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples
-
-
-## Past Projects
-
-<div class="grid-container" style="padding:10px">
-  <div class="grid grid--p-3">
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -319,6 +391,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 ## Research Grants and Scholarships
 - **PI**, Engaging Spectators in Virtual Reality 面向虚拟现实观众的交互方式研究. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-2024.
 - **PI**, Engaging Students in Exploratory Modules Using Virtual Reality 基于虚拟现实的探索性课程教学研究, XJTLU Teaching Development Fund. TDF20/21-R22-142, 50,000 RMB, 2021-2023.
+- **PI**, Presenting Cultural Artefacts Using Virtual and Augmented Reality, XJTLU Summer Undergraduate Research Fellowship. SURF-2021045, 2021.
 - **Co-PI**, Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution 探索沉浸式学习在物流仓储课堂中的应用, XJTLU Teaching Development Fund. TDF20/21-R22-147，50,000 RMB, 2021-2023.
 - **Member**, Cultural Heritage and Cross-Border Digital Communication in the Terrestrial and Maritime Silk Road: Facilitating the Construction of a Cloud-Based Heritage Open VR Social Database. PI: Prof Eugene Ch'ng. Ningbo Science and Technology Bureau. 300,000 RMB, 2018-2021. 宁波市重大科技专项项目，2017D10035，海陆丝绸之路上的文化遗产和跨境数字通信：构建兼具开放性、社交性和虚拟现实技术的文化遗产云端共享数据库.
 - **Member**, R & D and Practice of Key Technologies in Virtual Reality System Development of Chinese Culture and Education-Based Museum Collections. PI: Prof Eugene Ch'ng. Zhejiang Science and Technology Bureau. 150,000 RMB, 2016-2018. 浙江省公益技术应用研究，2017C33029，基于博物馆馆藏的中国文化教育虚拟现实系统开发的关键技术研发及实践.
