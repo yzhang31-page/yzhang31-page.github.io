@@ -6,7 +6,7 @@ titles: About
 
 <a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/yue-li"><img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/8PWcWXwozR9kbffOuAYO.5217ba1e.jpg" height="auto" width="200" style="border-radius:50%; float: right"></a>
 
-I am a Lecturer at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool Unviersity. 
+I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool Unviersity. 
 
 My research interest is in the field of **Human Computer Interaction (HCI)**, with particular emphasis on **Virtual Reality (VR)** and **Augmented Reality (AR)** technologies. I have been actively involved in research related to the design, evaluation and application of VR and AR in the social context, particularly the technology-enhanced learning activities in **cultural heritage** and **education**. 
 
@@ -24,7 +24,7 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 - **Software Engineer Intern** @ IBM, Jun 2014 - Sep 2014
 
 ## Teaching
-<!-- - **Module Leader**, CPT208 Human-Centric Computing, Xi’an Jiaotong-Liverpool University, AY2021/22 S2.-->
+- **Module Leader**, CPT208 Human-Centric Computing, Xi’an Jiaotong-Liverpool University, AY2021/22 S2.
 - **Module Leader**, CPT411 Evaluation Methods and Statistics, Xi’an Jiaotong-Liverpool University, AY2021/22 S1. 
 - **Co-Teacher**, CPT202 Software Engineering Group Project, Xi’an Jiaotong-Liverpool University, AY2020/21 S2.
 - **Teaching Assistant**, COMP1041 Databases and Interfaces, University of Nottingham Ningbo China, AY2017/18 S2.
@@ -33,7 +33,7 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 
 
 ## Honours and Awards
-- **First Prize**, Interaction Contest on Blended Teaching & Learning, 2021
+- **First Prize**, International Contest on Blended Teaching & Learning, 2021
 - **First Prize** *(Supervisor)*, China Competition on Virtual Reality, 2021
 - **Tri-Campus Postgraduate Award**, University of Nottingham, 2020
 - **Best Student Paper Award**, University of Nottingham, 2019

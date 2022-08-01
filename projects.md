@@ -7,21 +7,23 @@ titles: Projects
 
 ## Current Projects
 
+**I have a <span style="color: red;">PhD scholarship</span> for a potential candidate working on Experiential Learning in Virtual Museums.** The student will be awarded a PhD degree from the University of Liverpool (UK) upon successful completion of the program.
+
 **I am recruiting <span style="color: red;">research assistants</span> for my research projects.** Qualified RAs will be paid based on the XJTLU student salary standard. 
 
-If you have experience and interest in requirement analysis, VR development and 3D modelling, please feel free to send me an email: yue.li@xjtlu.edu.cn. 
+If you have experience and interest in the above positions, please feel free to send me an email: yue.li@xjtlu.edu.cn. 
 
-#### Project 1: Engaging Students in Exploratory Modules Using Virtual Reality
+<!-- #### Project 1: Engaging Students in Exploratory Modules Using Virtual Reality
 This project seeks to leverage Virtual Reality (VR) technologies to facilitate the learning and teaching of exploratory modules at XJTLU. This project aims to combine and apply the lessons learned from previous VR practices in the School of Design (DES) and the School of Advanced Technology (SAT), and to further explore the use of VR in two exploratory modules: DES001 Explore Design and SAT001 Explore Advanced Technology. Specifically, this project will contribute to (1) a clarified understanding of students’ and instructors’ needs of VR in learning and teaching; (2) enhanced student engagement in learning activities and better delivery of the subject matter of the degree programmes within DES and SAT via a technology-enhanced approach; and (3) a user-centred system design - Explore001 VR system, which can be continuously used in future learning and teaching activities and for general demonstrations of design and advanced technology topics to a wider audience.
 
 **Essential skills for RAs:**
 1. Requirement collection and analysis
 2. VR development with Unity
-3. Strong communication skills
+3. Strong communication skills 
+ 
+See [DES001](http://modules.xjtlu.edu.cn/mod?mod_code=DES001) and [SAT001](http://modules.xjtlu.edu.cn/mod?mod_code=SAT001) for more details. -->
 
-See [DES001](http://modules.xjtlu.edu.cn/mod?mod_code=DES001) and [SAT001](http://modules.xjtlu.edu.cn/mod?mod_code=SAT001) for more details.
-
-#### Project 2: Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution
+<!-- #### Project 2: Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution
 This project aims to develop a virtual warehouse management scene that students could get into and fulfill typical tasks such as receiving, put away, inventory transfer, packing, and dispatching, etc. in a role-playing model by wearing VR goggles. Specifically, two episodes including an inbound material receiving process and an outbound material dispatching process will be developed in the virtual scene for students. An instructor manual and student manual guiding the VR technology integrated learning and teaching in the classroom will also be developed accompany with the virtual environment construction. The ultimate goal is to provide an immerse learning environment for students to enhance their understanding of warehouse management activities in this module.
 
 **Essential skills for RAs:**
@@ -29,10 +31,14 @@ This project aims to develop a virtual warehouse management scene that students 
 2. VR development with Unity
 3. Domain knowledge about logistics and physical distribution
 
-See [IOM411](http://modules.xjtlu.edu.cn/mod?mod_code=IOM001) for more details.
+See [IOM411](http://modules.xjtlu.edu.cn/mod?mod_code=IOM001) for more details. -->
+
+#### PhD project: Experiential Learning in Virtual Museums
+
+Museums are actively digitizing collections to store, distribute and share them with more audiences. The adoption of interactive technologies is promoting the spread of culture by developing creative narratives to support education and entertainment. Virtual museum (VM) is an extension of physical museums that presents content in digital forms, such as photographs of museum archives. Current extended reality (XR) technologies afford the creation of interactive cultural heritage learning experience with 3D assets. This project aims to obtain an in-depth understanding of users' experiential learning in VMs. This is an interdisciplinary project that sits at the intersection of human-computer interaction (HCI), cultural heritage (CH) and education. The research will develop novel interaction techniques for virtual museum navigation and object interaction, and contribute to the understanding of learning mechanism in VR using combined theoretical and computational approach.
 
 
-#### Project 3: Engaging Spectators in Virtual Reality
+#### Research Project: Engaging Spectators in Virtual Reality
 Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR and to provide guidelines for designing socially acceptable VR experience.
 
 ## Student Projects
@@ -43,19 +49,19 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 #### AY2021-2022 Undergraduate students and projects (FYP)
 - Haodong Liu, Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
 - Yuang Zhou, Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
-- Dingding Chen, An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓）
-- Junhan Lin, An Application to Support Boulder Problems Creation in Gyms (WeChat) 体育馆抱石线路标记 App （微信小程序）
+- Dingding Chen, An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓） (🥇*Distinction*)
+- Junhan Lin, An Application to Support Boulder Problems Creation in Gyms (WeChat) 体育馆抱石线路标记 App （微信小程序） (🥇*Distinction*)
 - Yihao Shu, Interaction Techniques for Large Object Selection and Manipulation in Virtual Reality 虚拟现实中大型物体的交互技术
-- Ruizhe Kan, Collaborative Experience between Virtual Reality Users and Spectators 虚拟现实用户和观众之间的协作体验
-- Jiangyue Li, Informed or Interrupted: Exploring the Impact of Different Message Notification Methods in Virtual Reality 探索虚拟现实中不同消息通知方法的影响
-- Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术
-- Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类
+- Ruizhe Kan, Collaborative Experience between Virtual Reality Users and Spectators 虚拟现实用户和观众之间的协作体验 (🥇*Distinction*)
+- Jiangyue Li, Informed or Interrupted: Exploring the Impact of Different Message Notification Methods in Virtual Reality 探索虚拟现实中不同消息通知方法的影响 (🥇*Distinction*)
+- Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术 (🥇*Distinction*)
+- Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类 (🥇*Distinction*)
 
 #### AY2021-2022 Master students and projects (FMP)
 - Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls
 - Jiayou Huang, BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality
-- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications
-- Ninigning Xu, Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach
+- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications (🥇*Distinction*)
+- Ninigning Xu, Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach (🥇*Distinction*)
 - Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
 
 #### AY2020-2021 Undergraduate students and projects (FYP)
@@ -63,10 +69,10 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples
 
 
-## Past Projects
+## Selected Past Projects
 <div class="grid-container" style="padding:10px">
   <div class="grid grid--p-3">
-    <div class="cell cell--4">
+    <!-- <div class="cell cell--4">
       <div>
         <div class="card">
           <div class="card__image">
@@ -97,7 +103,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
           </div>
         </div>  
       </div>
-    </div>
+    </div> -->
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -130,7 +136,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
         </div>  
       </div>
     </div>
-    <div class="cell cell--4">
+    <!-- <div class="cell cell--4">
       <div>
         <div class="card">
           <div class="card__image">
@@ -145,7 +151,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
           </div>
         </div>  
       </div>
-    </div>
+    </div> -->
     <div class="cell cell--4">
       <div>
         <div class="card">

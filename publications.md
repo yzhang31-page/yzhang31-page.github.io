@@ -17,14 +17,42 @@ titles: Publications
   </div>
 </div>
 
-
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/publication-bookchapter.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/publication-22-compsac.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li, Y.</b>, and Ch’ng, E. (2022). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. Visual Heritage: Digital Approaches in Heritage Science, Springer. https://doi.org/10.1007/978-3-030-77028-0_23</p>
+      <p>Chai, K. and <b>Li, Y.</b> (2022). Cultural Heritage Assets Optimization Workflow for Interactive System Development. IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). Torino, Italy (Virtual), 27 June - 1 July 2022.
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/361522925_Cultural_Heritage_Assets_Optimization_Workflow_for_Interactive_System_Development">PDF</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-22-icet.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p><b>Li, Y.</b>, Tin, S. P., and Reis, C. (2022). Student Engagement in Software Engineering Group Projects: An Action Research Study (Best Paper Award). International Conference on Educational Technology (ICET 2022). Beijing, China, 25-27 June 2022. 
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/361529037_Student_Engagement_in_Software_Engineering_Group_Projects_An_Action_Research_Study">PDF</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-22-bookchapter.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p><b>Li, Y.</b>, and Ch’ng, E. (2022). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. Visual Heritage: Digital Approaches in Heritage Science, Springer. https://doi.org/10.1007/978-3-030-77028-0_23
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/359756173_A_Framework_for_Sharing_Cultural_Heritage_Objects_in_Hybrid_Virtual_and_Augmented_Reality_Environments">PDF</a>
+      </p>
     </div>
   </div>
 </div>
