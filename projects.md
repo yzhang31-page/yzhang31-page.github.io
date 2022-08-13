@@ -46,6 +46,23 @@ I am happy to supervise student dissertations and final year projects in SAT301,
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
+#### AY2022-2023 Undergraduate students and projects (FYP)
+- Artifact Interactions in Virtual Museums 虚拟博物馆中的文物交互
+- Visualization of IFSC Sport Climbing Competition and Athlete Data 攀岩比赛及运动员数据可视化
+- An Efficiency Application to Manage Time and Wealth (Web App)  基于时间和智慧财务的效率工具（网页应用）
+- An Efficiency Application to Manage Time and Wealth (WeChat mini program)  基于时间和智慧财务的效率工具（微信小程序）
+- Mingze Wu, LonelyDance: Examining Player Experience, Performance and Social Acceptability of Dance Exergaming in Virtual Reality研究虚拟现实中舞蹈运动游戏的玩家体验、表现和社会接受度
+- Xuansheng Xia, ComeAroundMe: Evaluating the Degree of Involvement in Multiusers Asymmetric Virtual Reality 多人非对称虚拟现实中的参与程度评估
+- Ruixiang Zhao, LetMeHear: Comparing the Effects of Visual and Auditory Stimuli on Player Experiences in Virtual Reality 比较视觉和听觉刺激对虚拟现实中玩家体验的影响
+- Ziyue Zhao, LeanOn: Simulating Balance Vehicle Locomotion in Virtual Environments在虚拟环境中模拟平衡车移动
+
+#### AY2022-2023 Master students and projects (FMP)
+- Yukun Fu, AR Try-On: Cosplay with Augmented Reality
+- Tianqi Huang, That'sMe: Avatar and Social Presence in Virtual Reality
+- Yuwen Li, WatchOut: Spectator Experience of Virtual Reality
+- Jiachen Liang, Factors Influencing Motivation for Learning in Virtual Classrooms
+- Gongxi Su, Museum Artifact Metadata Management and Visualization
+
 #### AY2021-2022 Undergraduate students and projects (FYP)
 - Haodong Liu, Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
 - Yuang Zhou, Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
