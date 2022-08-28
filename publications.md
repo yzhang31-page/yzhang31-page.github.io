@@ -6,13 +6,37 @@ titles: Publications
 ---
 
 
-<div class="item" style="padding-bottom:10px">
+<!-- <div class="item" style="padding-bottom:10px">
   <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/publication-tochi.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
       <p><b>Li, Y.</b>, Ch’ng, E., and Cobb, S. (under review). Effects of Object Interactivity, User Comments and Avatar Proximity on Engagement and Presence in Hybrid VR and AR Environments. ACM Transactions on Computer-Human Interaction.</p>
+    </div>
+  </div>
+</div> -->
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-22-ismar.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p>Xu, N., <b>Li, Y.</b>, Lin, J., Yu, L., and Liang, H.-N. (2022). User Retention of Mobile Augmented Reality for Cultural Heritage Learning. ISMAR 2022: IEEE International Symposium on Mixed and Augmented Reality. Singapore, 17-21 October 2022.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-22-pg.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p>Hou, Y., Liu, Y., Wang, H., Zhang, Z., <b>Li, Y.</b>, Liang, H.-N., and Yu, L. (2022). DARC: A Visual Analytics System for Multivariate Applicant Data Aggregation, Reasoning and Comparison. Pacific Graphics 2022. Kyoto, Japan, 5-8 October 2022.
+      </p>
     </div>
   </div>
 </div>
@@ -205,4 +229,6 @@ titles: Publications
 -->
 
 ## Patent
-**李月**, Eugene Ch'ng. 发明创造：一种实现多人混合虚拟和增强交互的系统及方法 (System and Method for Multiuser Interaction with Hybrid Virtual and Augmented Reality). Submitted Jan 2021. 申请号：202110030565.4，发文序号：2021011101862320.
+**Yue Li**. Invention: An Augmented Reality-Based Interaction Method, Artefact, Electronic Device and Medium. Submitted Oct 2021. 申请号: 202111193452.2, 发文序号: 2022011700657040. 发明创造: 一种基于增强现实的交互方法、装置、电子设备及存储介质.
+
+**Yue Li**, Eugene Ch'ng. System and Method for Multiuser Interaction with Hybrid Virtual and Augmented Reality. Submitted Jan 2021. 申请号：202110030565.4, 发文序号：2021011101862320. 发明创造：一种实现多人混合虚拟和增强交互的系统及方法.
