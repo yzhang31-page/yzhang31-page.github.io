@@ -13,8 +13,8 @@ My research interest is in the field of **Human Computer Interaction (HCI)**, wi
 I received my PhD degree from the **University of Nottingham** in 2020 with the Postgraduate Award. During my PhD study, I worked at the NVIDIA Joint-Lab on Mixed Reality in Ningbo and the Mixed Reality Lab in Nottingham UK.
 
 ## Education
-- **PhD** Digital Technologies (with Tri-Campus Postgraduate Award), University of Nottingham, 2016 - 2020
-- **BSc** Computer Science (with Vice-Chancellor’s Medal and Presidential Award), University of Nottingham, 2012 - 2016
+- **PhD** in Computer Science (with Tri-Campus Postgraduate Award), University of Nottingham, 2016-2020
+- **BSc** in Computer Science (with Vice-Chancellor’s Medal and Presidential Award), University of Nottingham, 2012-2016
 
 ## Experience
 - **Research Associate** @ Virtual Engineering Center, Xi’an Jiaotong-Liverpool University, Dec 2019 - May 2020
@@ -33,6 +33,7 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 
 
 ## Honours and Awards
+- **Best Paper Award & Best Presentation Award**, International Conference on Educational Technology, 2022
 - **First Prize**, International Contest on Blended Teaching & Learning, 2021
 - **First Prize** *(Supervisor)*, China Competition on Virtual Reality, 2021
 - **Tri-Campus Postgraduate Award**, University of Nottingham, 2020

@@ -232,3 +232,17 @@ titles: Publications
 **Yue Li**. Invention: An Augmented Reality-Based Interaction Method, Artefact, Electronic Device and Medium. Submitted Oct 2021. 申请号: 202111193452.2, 发文序号: 2022011700657040. 发明创造: 一种基于增强现实的交互方法、装置、电子设备及存储介质.
 
 **Yue Li**, Eugene Ch'ng. System and Method for Multiuser Interaction with Hybrid Virtual and Augmented Reality. Submitted Jan 2021. 申请号：202110030565.4, 发文序号：2021011101862320. 发明创造：一种实现多人混合虚拟和增强交互的系统及方法.
+
+
+## Research Grants and Scholarships
+- **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund (**Still Open**), FOSA2206014. 240,000 RMB, 2022-07. 博士生奖学金: 虚拟博物馆中的体验式学习 (**在招**).
+- **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高等学校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
+- **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
+- **Co-PI**, Design and Development of Trusted Real-Time Execution Environments. XJTLU Research Enhancement Fund, REF-21-01-002. 50,000 RMB, 2022-03 to 2024-02. 科研提升基金: 可信实时执行环境的设计和开发.
+- **PI**, Engaging Spectators in Virtual Reality. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-09 to 2024-08. 科研发展基金: 面向社交环境的虚实融合交互机制研究.
+- **PI**, Engaging Students in Exploratory Modules Using Virtual Reality, XJTLU Teaching Development Fund, TDF20/21-R22-142. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 基于虚拟现实的探索性课程教学研究.
+- **Co-PI**, Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution, XJTLU Teaching Development Fund, TDF20/21-R22-147. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 探索沉浸式学习在物流仓储课堂中的应用.
+- **PI**, Presenting Cultural Artefacts Using Virtual and Augmented Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2021045. 10,000 RMB, 2021-06 to 2022-09. 夏季本科生研究基金: 使用虚拟现实和增强现实技术展示文物.
+- **Member**, Cultural Heritage and Cross-Border Digital Communication in the Terrestrial and Maritime Silk Road: Facilitating the Construction of a Cloud-Based Heritage Open VR Social Database. Ningbo Science and Technology Bureau, 2017D10035. 300,000 RMB, 2018-09 to 2021-08. 宁波市重大科技专项项目: 海陆丝绸之路上的文化遗产和跨境数字通信：构建兼具开放性、社交性和虚拟现实技术的文化遗产云端共享数据库.
+- **Member**, R & D and Practice of Key Technologies in Virtual Reality System Development of Chinese Culture and Education-Based Museum Collections. Zhejiang Science and Technology Bureau, 2017C33029. 150,000 RMB, 2016-09 to 2018-08. 浙江省公益技术应用研究: 基于博物馆馆藏的中国文化教育虚拟现实系统开发的关键技术研发及实践.
+- **PhD Scholarship**, International Doctoral Innovation Centre. Sponsored by Ningbo Education Bureau, Ningbo Science and Technology Bureau, Ministry of Science and Technology of the People's Republic of China, and University of Nottingham. RCUK Grant No. EP/L015463/1. Tuition fee waiver & ~300,000 RMB stipend, 2016-09 to 2020-08.
