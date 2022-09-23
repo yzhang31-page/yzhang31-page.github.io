@@ -235,6 +235,7 @@ titles: Publications
 
 
 ## Research Grants and Scholarships
+- **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025.12. 国家自然科学基金青年基金项目: 面向智慧博物馆的虚拟现实教育研究.
 - **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund (**Still Open**), FOSA2206014. 240,000 RMB, 2022-07. 博士生奖学金: 虚拟博物馆中的体验式学习 (**在招**).
 - **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高等学校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
 - **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
