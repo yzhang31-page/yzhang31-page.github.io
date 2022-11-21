@@ -46,6 +46,16 @@ I am happy to supervise student dissertations and final year projects in SAT301,
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
+#### Student Competition Awards
+- 🥇 **First Prize**. Jiarui Chen, Yinuo Wang, and Yuang Zhou, Exploratory Virtual Classroom. CCVR 2022. Kunming, China. November 18-20, 2022.
+- 🥈 **Second Prize**. Xuansheng Xia, Guanxuan Jiang, and Shuhao Zhang, VR Chemistry Laboratory. CCVR 2022. Kunming, China. November 18-20, 2022.
+- 🥉 **Third Prize**. Ziyue Zhao, Wenxuan Zheng, and Jiachen Liang, Memory VR. CCVR 2022. Kunming, China. November 18-20, 2022.
+- 🏆 **Grand Prize**. Jeongyeong Park, Miji Heo, Seungil Jung, and Beomjin Kim, Study Buddy Finder, XJTLU Student Research-Led Learning Symposium, 19 November 2022.
+- 🎖 **Finalist**. Ningning Xu, Shuhao Zhang, Kedong Chai, Ruizhang Zhao, and Mingze Wu, CUSMO. MobileHCI 2022. September 28 – October 1, 2022.
+- 🥇 **First Prize**. Ningning Xu, Xingbo Wei, and Letian Xie, CubeMuseum AR. CCVR 2021. Nanchang, China. October 17-20, 2021.
+- 🥇 **First Prize**. Mingze Wu, Ruizhe Kan, Jiangyue Li, and Ruixiang Zhao, CoVisit VR Museum. CCVR 2021. Nanchang, China. October 17-20, 2021.
+
+
 #### AY2022-2023 Undergraduate students and projects (FYP)
 - Artifact Interactions in Virtual Museums 虚拟博物馆中的文物交互
 - Visualization of IFSC Sport Climbing Competition and Athlete Data 攀岩比赛及运动员数据可视化

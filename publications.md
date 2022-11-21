@@ -19,6 +19,21 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/publication-22-uais.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p>
+      Monteiro, D., Ma, T., <b>Li, Y.</b>, Pan, Z., and Liang, H.-N. (2022). Cross-cultural factors influencing the adoption of virtual reality for practical learning. Universal Access in the Information Society. https://doi.org/10.1007/s10209-022-00947-y 
+      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/365208730_Cross-Cultural_Factors_Influencing_the_Adoption_of_Virtual_Reality_for_Practical_Learning">PDF</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/publication-22-ismar.png"/>
   </div>
   <div class="item__content">
@@ -181,7 +196,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p><b>Li, Y.</b>, Ch’ng, E., Cai, S., and See, S. (2018). Multiuser Interaction with Hybrid VR and AR for Cultural Heritage Objects. VSMM 2018. San Francisco, USA, 26-30 October 2018: IEEE. https: //doi.org/10.1109/DigitalHeritage.2018.8810126.
+      <p><b>Li, Y.</b>, Ch’ng, E., Cai, S., and See, S. (2018). Multiuser Interaction with Hybrid VR and AR for Cultural Heritage Objects. VSMM 2018. San Francisco, USA, 26-30 October 2018: IEEE. https://doi.org/10.1109/DigitalHeritage.2018.8810126.
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/326983773_Multiuser_Interaction_with_Hybrid_VR_and_AR_for_Cultural_Heritage_Objects">PDF</a>
       </p>
     </div>
@@ -235,9 +250,10 @@ titles: Publications
 
 
 ## Research Grants and Scholarships
-- **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025.12. 国家自然科学基金青年基金项目: 面向智慧博物馆的虚拟现实教育研究.
 - **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund (**Still Open**), FOSA2206014. 240,000 RMB, 2022-07. 博士生奖学金: 虚拟博物馆中的体验式学习 (**在招**).
+- **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025.12. 国家自然科学基金青年科学基金: 面向智慧博物馆的虚拟现实教育研究.
 - **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高等学校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
+- **Co-PI**, Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology. Suzhou Science and Technology Innovation for Social Development Programme, 100,000 RMB, 2022-07 to 2025-06. 苏州市科技计划（社会发展科技创新）: 基于建筑信息系统与扩展现实技术的建筑遗产重现应用研究.
 - **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
 - **Co-PI**, Design and Development of Trusted Real-Time Execution Environments. XJTLU Research Enhancement Fund, REF-21-01-002. 50,000 RMB, 2022-03 to 2024-02. 科研提升基金: 可信实时执行环境的设计和开发.
 - **PI**, Engaging Spectators in Virtual Reality. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-09 to 2024-08. 科研发展基金: 面向社交环境的虚实融合交互机制研究.
