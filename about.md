@@ -24,6 +24,8 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 - **Software Engineer Intern** @ IBM, Jun 2014 - Sep 2014
 
 ## Teaching
+- **Module Leader**, CPT208 Human-Centric Computing, Xi’an Jiaotong-Liverpool University, AY2022/23 S2.
+- **Module Leader**, CPT411 Evaluation Methods and Statistics, Xi’an Jiaotong-Liverpool University, AY2022/23 S1. 
 - **Module Leader**, CPT208 Human-Centric Computing, Xi’an Jiaotong-Liverpool University, AY2021/22 S2.
 - **Module Leader**, CPT411 Evaluation Methods and Statistics, Xi’an Jiaotong-Liverpool University, AY2021/22 S1. 
 - **Co-Teacher**, CPT202 Software Engineering Group Project, Xi’an Jiaotong-Liverpool University, AY2020/21 S2.
@@ -33,7 +35,8 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 
 
 ## Honours and Awards
-- **Jiangsu Shuangchuang PhD**, Jiangsu Province, 2022
+- **Science and Education Talents**, Suzhou City, 2022
+- **Shuangchuang PhD**, Jiangsu Province, 2022
 - **Best Paper Award & Best Presentation Award**, International Conference on Educational Technology, 2022
 - **First Prize**, International Contest on Blended Teaching & Learning, 2021
 - **Outstanding Supervisor**, China Competition on Virtual Reality, 2021

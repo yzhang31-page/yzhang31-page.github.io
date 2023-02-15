@@ -7,9 +7,9 @@ titles: Projects
 
 ## Current Projects
 
-**I have a <span style="color: red;">PhD scholarship</span> for a potential candidate working on Experiential Learning in Virtual Museums.** The student will be awarded a PhD degree from the University of Liverpool (UK) upon successful completion of the program. 
+**I have a <span style="color: red;">PhD scholarship</span> for a potential candidate working on a project related to Virtual Reality Education Technology for Smart Museums.** The student will be awarded a PhD degree from the University of Liverpool (UK) upon successful completion of the program. 
 
-**I am recruiting <span style="color: red;">research assistants</span> for my research projects.** Qualified RAs will be paid based on the XJTLU student salary standard. 
+**I am also recruiting <span style="color: red;">research assistants</span> for my research projects.** Qualified RAs will be paid based on the XJTLU student salary standard. 
 
 If you have experience and interest in the above positions, please feel free to send me an email: yue.li@xjtlu.edu.cn. 
 
@@ -33,16 +33,20 @@ This project aims to develop a virtual warehouse management scene that students 
 
 See [IOM411](http://modules.xjtlu.edu.cn/mod?mod_code=IOM001) for more details. -->
 
-#### PhD project: Experiential Learning in Virtual Museums
+#### PhD Project: Virtual Reality Education Technology for Smart Museums
 
-Museums are actively digitizing collections to store, distribute and share them with more audiences. The adoption of interactive technologies is promoting the spread of culture by developing creative narratives to support education and entertainment. Virtual museum (VM) is an extension of physical museums that presents content in digital forms, such as photographs of museum archives. Current extended reality (XR) technologies afford the creation of interactive cultural heritage learning experience with 3D assets. This project aims to obtain an in-depth understanding of users' experiential learning in VMs. This is an interdisciplinary project that sits at the intersection of human-computer interaction (HCI), cultural heritage (CH) and education. The research will develop novel interaction techniques for virtual museum navigation and object interaction, and contribute to the understanding of learning mechanism in VR using combined theoretical and computational approach.
+The smart museum is a new trend driven by the national strategy and a foundational project to make cultural relics ‘come alive’, and Virtual Reality (VR) technology has become the key technology for the construction of smart museums. However, there are still many key problems to be solved in the construction of smart museums. In view of the insufficient understanding of the learning mechanisms, limited interactive experience and lack of public engagement in the smart museum, this project plans to carry out research work on virtual environment learning mechanisms, display and interaction techniques, and virtual curation practices. Combining theoretical methods from pedagogy, museology, computer science, informatics and other interdisciplinary fields, this research will conduct empirical studies and analysis to clarify the key mechanisms for users to actively participate in cultural heritage learning within the virtual environment. With combined user activity monitoring and brain-computer interface technology, user interaction intention and behavior models will be constructed to explore display approaches and interaction techniques in the virtual learning environment. This project aims to make contributions to the field of VR education, and to provide insights for the construction and development of smart museums.
 
 
-#### Research Project: Engaging Spectators in Virtual Reality
-Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR and to provide guidelines for designing socially acceptable VR experience.
+#### Research Assistant Projects
+
+- Engaging Spectators in Virtual Reality
+- Extended Reality Collaboration Technology for Metaverse
+- Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology
+<!-- Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR and to provide guidelines for designing socially acceptable VR experience. -->
 
 ## Student Projects
-I am happy to supervise student dissertations and final year projects in SAT301, SAT405 and SAT406, as well as summer research for HCI/VR/AR related projects.
+I am happy to supervise student dissertations and final year projects in SAT301, SAT405 and SAT406, as well as summer research for HCI/VR/AR related projects and student competitions.
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
@@ -50,8 +54,9 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - 🥇 **First Prize**. Jiarui Chen, Yinuo Wang, and Yuang Zhou, Exploratory Virtual Classroom. CCVR 2022. Kunming, China. November 18-20, 2022.
 - 🥈 **Second Prize**. Xuansheng Xia, Guanxuan Jiang, and Shuhao Zhang, VR Chemistry Laboratory. CCVR 2022. Kunming, China. November 18-20, 2022.
 - 🥉 **Third Prize**. Ziyue Zhao, Wenxuan Zheng, and Jiachen Liang, Memory VR. CCVR 2022. Kunming, China. November 18-20, 2022.
-- 🏆 **Grand Prize**. Jeongyeong Park, Miji Heo, Seungil Jung, and Beomjin Kim, Study Buddy Finder, XJTLU Student Research-Led Learning Symposium, 19 November 2022.
-- 🎖 **Finalist**. Ningning Xu, Shuhao Zhang, Kedong Chai, Ruizhang Zhao, and Mingze Wu, CUSMO. MobileHCI 2022. September 28 – October 1, 2022.
+- 🏆 **Grand Prize**. Jeongyeong Park, Miji Heo, Seungil Jung, and Beomjin Kim, Study Buddy Finder, XJTLU Student Research-Led Learning Symposium. Suzhou, China. 19 November, 2022.
+- 🎖 **Finalist**. Ningning Xu, Shuhao Zhang, Kedong Chai, Ruizhang Zhao, and Mingze Wu, CUSMO. MobileHCI 2022. Vancouver, Canada. September 28 – October 1, 2022.
+- 🏆 **Group Winner**. Kexiang Shuai, Zhiwen Xu, Mingze Wu, Ruixiang Zhao, Xuansheng Xia, Ziyue Zhao, and Wenxuan Zheng. XJTLU SURF Poster Fair. Suzhou, China. September 8, 2022.
 - 🥇 **First Prize**. Ningning Xu, Xingbo Wei, and Letian Xie, CubeMuseum AR. CCVR 2021. Nanchang, China. October 17-20, 2021.
 - 🥇 **First Prize**. Mingze Wu, Ruizhe Kan, Jiangyue Li, and Ruixiang Zhao, CoVisit VR Museum. CCVR 2021. Nanchang, China. October 17-20, 2021.
 
