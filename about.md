@@ -35,7 +35,7 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 
 
 ## Honours and Awards
-- **Science and Education Talents**, Suzhou City, 2022
+- **Science and Education Backbone Talents**, Suzhou City, 2022
 - **Shuangchuang PhD**, Jiangsu Province, 2022
 - **Best Paper Award & Best Presentation Award**, International Conference on Educational Technology, 2022
 - **First Prize**, International Contest on Blended Teaching & Learning, 2021
