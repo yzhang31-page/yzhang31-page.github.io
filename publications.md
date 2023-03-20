@@ -9,11 +9,11 @@ titles: Publications
 
 - <b>Li, Y.*</b>, Ch’ng, E., and Cobb, S. (Just Accepted). Factors Influencing Engagement in Hybrid Virtual and Augmented Reality. Transactions on Computer-Human Interaction. **[SCI Q1]**
 
-- Zhang, S., <b>Li, Y.*</b>, Man, K. L., Yue, Y., & Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 330–337. <https://doi.org/10.1109/VRW58643.2023.00075>
+- Zhang, S., <b>Li, Y.*</b>, Man, K. L., Yue, Y., & Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. <https://doi.org/10.1109/VRW58643.2023.00075>
 
 - Zhao, Z., <b>Li, Y.*</b>, Yu, L., & Liang, H.-N. (2023). TeleSteer: Combining Discrete and Continuous Locomotion Techniques in Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 755–756. <https://doi.org/10.1109/VRW58643.2023.00220>
 
-- Chai, K., <b>Li, Y.*</b>, Yu, L., & Liang, H.-N. (2023). HapticBox: Designing Hand-Held Thermal, Wetness, and Wind Stimuli for Virtual Reality. 873–874. <https://doi.org/10.1109/VRW58643.2023.00279>
+- Chai, K., <b>Li, Y.*</b>, Yu, L., & Liang, H.-N. (2023). HapticBox: Designing Hand-Held Thermal, Wetness, and Wind Stimuli for Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 873–874. <https://doi.org/10.1109/VRW58643.2023.00279>
 
 - Xu, N., <b>Li, Y.*</b>, Wei, X., Xie, L., Yu, L., and Liang, H.-N. (2023). CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting. International Journal of Human–Computer Interaction, 1–29. <https://doi.org/10.1080/10447318.2023.2171350> **[SCI Q1, CCF A]**
 
