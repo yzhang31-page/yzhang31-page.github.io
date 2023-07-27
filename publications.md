@@ -7,15 +7,19 @@ titles: Publications
 
 #### 2023
 
-- <b>Li, Y.*</b>, Ch’ng, E., and Cobb, S. (Just Accepted). Factors Influencing Engagement in Hybrid Virtual and Augmented Reality. Transactions on Computer-Human Interaction. **[SCI Q1]**
+- <b>Li, Y.*</b>, Ch’ng, E., and Cobb, S. (Just Accepted). Factors Influencing Engagement in Hybrid Virtual and Augmented Reality. Transactions on Computer-Human Interaction. **[SCI Q2, CCF A]**
 
-- Zhang, S., <b>Li, Y.*</b>, Man, K. L., Yue, Y., & Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. <https://doi.org/10.1109/VRW58643.2023.00075> **[EI, CCF A]**
+- Wei, Y., Shi, R., Yu, D., Wang, Y., <b>Li, Y.</b>, Yu, L., and Liang, H. N.* (2023). Predicting Gaze-based Target Selection in Augmented Reality Headsets based on Eye and Head Endpoint Distributions. Conference on Human Factors in Computing Systems - Proceedings. <https://doi.org/10.1145/3544548.3581042> **[EI, CCF A]**
 
-- Zhao, Z., <b>Li, Y.*</b>, Yu, L., & Liang, H.-N. (2023). TeleSteer: Combining Discrete and Continuous Locomotion Techniques in Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 755–756. <https://doi.org/10.1109/VRW58643.2023.00220> **[EI, CCF A]**
+- Wei, X., and <b>Li, Y.*<、b> (2023). Evaluating User Performance , Workload , and Presence of Virtual Reality Questionnaires Using Joystick and Raycasting Selection Techniques. In 2023 the 7th International Conference on Virtual and Augmented Reality Simulations (ICVARS) (ICVARS 2023), March 03-05, 2023, Sydney, Australia (Vol. 1, Issue 1). Association for Computing Machinery. <https://doi.org/10.1145/3603421.3603426> **[EI]**
 
-- Chai, K., <b>Li, Y.*</b>, Yu, L., & Liang, H.-N. (2023). HapticBox: Designing Hand-Held Thermal, Wetness, and Wind Stimuli for Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 873–874. <https://doi.org/10.1109/VRW58643.2023.00279> **[EI, CCF A]**
+- Zhang, S., <b>Li, Y.*</b>, Man, K. L., Yue, Y., and Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. <https://doi.org/10.1109/VRW58643.2023.00075> **[EI]**
 
-- Xu, N., <b>Li, Y.*</b>, Wei, X., Xie, L., Yu, L., and Liang, H.-N. (2023). CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting. International Journal of Human–Computer Interaction, 1–29. <https://doi.org/10.1080/10447318.2023.2171350> **[SCI Q1, CCF A]**
+- Zhao, Z., <b>Li, Y.*</b>, Yu, L., and Liang, H.-N. (2023). TeleSteer: Combining Discrete and Continuous Locomotion Techniques in Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 755–756. <https://doi.org/10.1109/VRW58643.2023.00220> **[EI]**
+
+- Chai, K., <b>Li, Y.*</b>, Yu, L., and Liang, H.-N. (2023). HapticBox: Designing Hand-Held Thermal, Wetness, and Wind Stimuli for Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 873–874. <https://doi.org/10.1109/VRW58643.2023.00279> **[EI]**
+
+- Xu, N., <b>Li, Y.*</b>, Wei, X., Xie, L., Yu, L., and Liang, H.-N. (2023). CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting. International Journal of Human–Computer Interaction, 1–29. <https://doi.org/10.1080/10447318.2023.2171350> **[SCI Q1, CCF B]**
 
 #### 2022
 
@@ -65,13 +69,13 @@ titles: Publications
 
 ## Research Grants and Scholarships
 - **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025.12. 国家自然科学基金青年科学基金: 面向智慧博物馆的虚拟现实教育研究.
-- **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高等学校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
+- **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
 - **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund, FOSA2206014. 240,000 RMB, 2022-07. 博士生奖学金: 虚拟博物馆中的体验式学习.
 - **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
 - **PI**, Presenting Cultural Artefacts Using Virtual and Augmented Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2021045. 10,000 RMB, 2021-06 to 2022-09. 夏季本科生研究基金: 使用虚拟现实和增强现实技术展示文物.
 - **PI**, Engaging Spectators in Virtual Reality. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-09 to 2024-08. 科研发展基金: 面向社交环境的虚实融合交互机制研究.
 - **PI**, Engaging Students in Exploratory Modules Using Virtual Reality, XJTLU Teaching Development Fund, TDF20/21-R22-142. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 基于虚拟现实的探索性课程教学研究.
-- **Co-PI**, Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology. Suzhou Science and Technology Development Planning Programme, 100,000 RMB, 2022-07 to 2025-06. 苏州市科技计划（社会发展科技创新）: 基于建筑信息系统与扩展现实技术的建筑遗产重现应用研究.
+- **Co-PI**, Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology. Suzhou Science and Technology Development Planning Programme, 100,000 RMB, 2022-07 to 2025-06. 苏州市科技发展计划: 基于建筑信息系统与扩展现实技术的建筑遗产重现应用研究.
 - **Co-PI**, Design and Development of Trusted Real-Time Execution Environments. XJTLU Research Enhancement Fund, REF-21-01-002. 50,000 RMB, 2022-03 to 2024-02. 科研提升基金: 可信实时执行环境的设计和开发.
 - **Co-PI**, Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution, XJTLU Teaching Development Fund, TDF20/21-R22-147. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 探索沉浸式学习在物流仓储课堂中的应用.
 - **Member**, Cultural Heritage and Cross-Border Digital Communication in the Terrestrial and Maritime Silk Road: Facilitating the Construction of a Cloud-Based Heritage Open VR Social Database. Ningbo Science and Technology Bureau, 2017D10035. 300,000 RMB, 2018-09 to 2021-08. 宁波市重大科技专项项目: 海陆丝绸之路上的文化遗产和跨境数字通信：构建兼具开放性、社交性和虚拟现实技术的文化遗产云端共享数据库.
