@@ -11,7 +11,7 @@ titles: Publications
 
 - Wei, Y., Shi, R., Yu, D., Wang, Y., <b>Li, Y.</b>, Yu, L., and Liang, H. N.* (2023). Predicting Gaze-based Target Selection in Augmented Reality Headsets based on Eye and Head Endpoint Distributions. Conference on Human Factors in Computing Systems - Proceedings. <https://doi.org/10.1145/3544548.3581042> **[EI, CCF A]**
 
-- Wei, X., and <b>Li, Y.*<、b> (2023). Evaluating User Performance , Workload , and Presence of Virtual Reality Questionnaires Using Joystick and Raycasting Selection Techniques. In 2023 the 7th International Conference on Virtual and Augmented Reality Simulations (ICVARS) (ICVARS 2023), March 03-05, 2023, Sydney, Australia (Vol. 1, Issue 1). Association for Computing Machinery. <https://doi.org/10.1145/3603421.3603426> **[EI]**
+- Wei, X., and <b>Li, Y.*</b> (2023). Evaluating User Performance , Workload , and Presence of Virtual Reality Questionnaires Using Joystick and Raycasting Selection Techniques. In 2023 the 7th International Conference on Virtual and Augmented Reality Simulations (ICVARS) (ICVARS 2023), March 03-05, 2023, Sydney, Australia (Vol. 1, Issue 1). Association for Computing Machinery. <https://doi.org/10.1145/3603421.3603426> **[EI]**
 
 - Zhang, S., <b>Li, Y.*</b>, Man, K. L., Yue, Y., and Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. <https://doi.org/10.1109/VRW58643.2023.00075> **[EI]**
 
