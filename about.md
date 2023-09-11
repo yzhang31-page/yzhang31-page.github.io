@@ -4,7 +4,7 @@ titles: About
 ---
 
 
-<a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/yue-li"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:50%; float: right"></a>
+<a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/yue-li"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
 
 I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool Unviersity. 
 

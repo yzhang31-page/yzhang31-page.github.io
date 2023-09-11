@@ -68,19 +68,25 @@ titles: Publications
 
 
 ## Patent
-- **Yue Li**. Invention: An Augmented Reality-Based Interaction Method, Artefact, Electronic Device and Medium. Submitted Oct 2021. 申请号: 202111193452.2, 发文序号: 2022011700657040. 发明创造: 一种基于增强现实的交互方法、装置、电子设备及存储介质.
+- **Yue Li**, Ziyue Zhao. Invention. A balance vehicle equipment and system. Submitted Aug 2023. Application No.: 202311032538.6, Issue No.: 2023090300051290. 发明创造：一种平衡车设备和系统.
 
-- **Yue Li**, Eugene Ch'ng. System and Method for Multiuser Interaction with Hybrid Virtual and Augmented Reality. Submitted Jan 2021. 申请号：202110030565.4, 发文序号：2021011101862320. 发明创造：一种实现多人混合虚拟和增强交互的系统及方法.
+- **Yue Li**, Kedong Chai. Invention. Haptic simulation device, haptic simulation method and virtual reality system. Submitted Jun 2023. Application No.: 202310744340.4, Issue No.: 2023090100378180. 发明创造：触觉模拟装置、触觉模拟方法和虚拟现实系统.
+
+- **Yue Li**. Invention: An Augmented Reality-Based Interaction Method, Artefact, Electronic Device and Medium. Submitted Oct 2021. Application No.: 202111193452.2, Issue No.: 2022011700657040. 发明创造: 一种基于增强现实的交互方法、装置、电子设备及存储介质.
+
+- **Yue Li**, Eugene Ch'ng. System and Method for Multiuser Interaction with Hybrid Virtual and Augmented Reality. Submitted Jan 2021. Application No.：202110030565.4, Issue No.: 2021011101862320. 发明创造：一种实现多人混合虚拟和增强交互的系统及方法.
 
 
 ## Research Grants and Scholarships
 - **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025.12. 国家自然科学基金青年科学基金: 面向智慧博物馆的虚拟现实教育研究.
 - **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
-- **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund, FOSA2206014. 240,000 RMB, 2022-07. 博士生奖学金: 虚拟博物馆中的体验式学习.
-- **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
-- **PI**, Presenting Cultural Artefacts Using Virtual and Augmented Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2021045. 10,000 RMB, 2021-06 to 2022-09. 夏季本科生研究基金: 使用虚拟现实和增强现实技术展示文物.
+- **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund, FOSA2206014. 240,000 RMB, 2023-09 to 2027-08. 博士生奖学金: 虚拟博物馆中的体验式学习.
+- **PI**, Fabrication of High-Performance Neural Sensors for Signal Acquisition of Non-Invasive Brain-Computer Interface (BCI). XJTLU Postgraduate Research Scholarship Fund (JITRI), FOS2210JB02. 240,000 RMB, 2023.06 to 2027.05. 博士生奖学金: 高性能无创脑机接口信号采集传感器制备研究.
 - **PI**, Engaging Spectators in Virtual Reality. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-09 to 2024-08. 科研发展基金: 面向社交环境的虚实融合交互机制研究.
 - **PI**, Engaging Students in Exploratory Modules Using Virtual Reality, XJTLU Teaching Development Fund, TDF20/21-R22-142. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 基于虚拟现实的探索性课程教学研究.
+- **PI**, Playful Virtual Museums: Exploring the Digital Affordances, XJTLU Summer Undergraduate Research Fellowship, SURF-2023-0011. 6,000 RMB, 2023-06 to 2023-09. 夏季本科生研究基金: 有趣的虚拟博物馆：探索数字功能可供性.
+- **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
+- **PI**, Presenting Cultural Artefacts Using Virtual and Augmented Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2021045. 10,000 RMB, 2021-06 to 2022-09. 夏季本科生研究基金: 使用虚拟现实和增强现实技术展示文物.
 - **Co-PI**, Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology. Suzhou Science and Technology Development Planning Programme, 100,000 RMB, 2022-07 to 2025-06. 苏州市科技发展计划: 基于建筑信息系统与扩展现实技术的建筑遗产重现应用研究.
 - **Co-PI**, Design and Development of Trusted Real-Time Execution Environments. XJTLU Research Enhancement Fund, REF-21-01-002. 50,000 RMB, 2022-03 to 2024-02. 科研提升基金: 可信实时执行环境的设计和开发.
 - **Co-PI**, Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution, XJTLU Teaching Development Fund, TDF20/21-R22-147. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 探索沉浸式学习在物流仓储课堂中的应用.
