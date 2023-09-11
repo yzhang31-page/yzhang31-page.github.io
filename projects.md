@@ -51,6 +51,7 @@ I am happy to supervise student dissertations and final year projects in SAT301,
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
 
 #### Student Competition Awards
+- 🎖 **Finalist**. Ningning Xu, Jiachen Liang, Kexiang Shuai, Yuwen Li, and Jiaqi Yan, HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage. Student Design Competition, CHI 2023. April 23-28, 2023.
 - 🥇 **First Prize**. Jiarui Chen, Yinuo Wang, and Yuang Zhou, Exploratory Virtual Classroom. CCVR 2022. Kunming, China. November 18-20, 2022.
 - 🥈 **Second Prize**. Xuansheng Xia, Guanxuan Jiang, and Shuhao Zhang, VR Chemistry Laboratory. CCVR 2022. Kunming, China. November 18-20, 2022.
 - 🥉 **Third Prize**. Ziyue Zhao, Wenxuan Zheng, and Jiachen Liang, Memory VR. CCVR 2022. Kunming, China. November 18-20, 2022.
@@ -61,44 +62,38 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - 🥇 **First Prize**. Mingze Wu, Ruizhe Kan, Jiangyue Li, and Ruixiang Zhao, CoVisit VR Museum. CCVR 2021. Nanchang, China. October 17-20, 2021.
 
 
-#### AY2022-2023 Undergraduate students and projects (FYP)
-- Artifact Interactions in Virtual Museums 虚拟博物馆中的文物交互
-- Visualization of IFSC Sport Climbing Competition and Athlete Data 攀岩比赛及运动员数据可视化
-- An Efficiency Application to Manage Time and Wealth (Web App)  基于时间和智慧财务的效率工具（网页应用）
-- An Efficiency Application to Manage Time and Wealth (WeChat mini program)  基于时间和智慧财务的效率工具（微信小程序）
-- Mingze Wu, LonelyDance: Examining Player Experience, Performance and Social Acceptability of Dance Exergaming in Virtual Reality 研究虚拟现实中舞蹈运动游戏的玩家体验、表现和社会接受度
-- Xuansheng Xia, ComeAroundMe: Evaluating the Degree of Involvement in Multiusers Asymmetric Virtual Reality 多人非对称虚拟现实中的参与程度评估
-- Ruixiang Zhao, LetMeHear: Comparing the Effects of Visual and Auditory Stimuli on Player Experiences in Virtual Reality 比较视觉和听觉刺激对虚拟现实中玩家体验的影响
-- Ziyue Zhao, LeanOn: Simulating Balance Vehicle Locomotion in Virtual Environments 在虚拟环境中模拟平衡车移动
+#### Undergraduate students and projects (SAT301 FYP)
+- Mingze Wu, LonelyDance: Examining Player Experience, Performance and Social Acceptability of Dance Exergaming in Virtual Reality, AY2022/23 (🥇*Distinction*)
+- Ruixiang Zhao, LetMeHear: Comparing the Effects of Visual and Auditory Stimuli on User Emotion and Engagement in Virtual Reality, AY2022/23 (🥇*Distinction*)
+- Xuansheng Xia, Evaluating the Degree of Involvement in Multiusers Asymmetric Virtual Reality, AY2022/23 (🥇*Distinction*)
+- Ziyue Zhao, LeanOn: Simulating Balance Vehicle Locomotion in Virtual Environments, AY2022/23 (🥇*Distinction*)
+- Yifan Wang, Artifacts Interactions in Virtual Museums, AY2022/23 (🥇*Distinction*)
+- Fangze Qiu, D-IFSC: Data Visualization of IFSC Sport Climbing Competition and Athlete Data, AY2022/23 (🥇*Distinction*)
+- Chongxi Yu, An Efficiency Application to Manage Time and Wealth (WeChat Mini Program), AY2022/23 
+- Bingjie Xie, An Efficiency Application to Manage Time and Wealth (Web App), AY2022/23
+- Ruizhe Kan, Collaborative Experience between Virtual Reality Users and Spectators, AY2021/22 (🥇*Distinction*)
+- Jiangyue Li, Informed or Interrupted: Exploring the Impact of Different Message Notification Methods in Virtual Reality, AY2021/22 (🥇*Distinction*)
+- Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR, AY2021/22 (🥇*Distinction*)
+- Letian Xie, An Employee Management System with Automated Classification of Employee Levels, AY2021/22 (🥇*Distinction*)
+- Haodong Liu, Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality, AY2021/22 
+- Yuang Zhou, Engaging Students in DES001 Explore Design Using Virtual Reality, AY2021/22 
+- Yihao Shu, Interaction Techniques for Large Object Selection and Manipulation in Virtual Reality, AY2021/22 
+- Dingding Chen, An Application to Support Boulder Problems Creation in Gyms (iOS & Android), AY2021/22 (🥇*Distinction*)
+- Junhan Lin, An Application to Support Boulder Problems Creation in Gyms (WeChat), AY2021/22 (🥇*Distinction*)
+- Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network, AY2020/21 (🥇*Distinction*)
+- Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples, AY2020/21
 
-#### AY2022-2023 Master students and projects (FMP)
-- Yukun Fu, AR Try-On: Cosplay with Augmented Reality
-- Tianqi Huang, That'sMe: Avatar and Social Presence in Virtual Reality
-- Yuwen Li, WatchOut: Spectator Experience of Virtual Reality
-- Jiachen Liang, Factors Influencing Motivation for Learning in Virtual Classrooms
-- Gongxi Su, Museum Artifact Metadata Management and Visualization
-
-#### AY2021-2022 Undergraduate students and projects (FYP)
-- Haodong Liu, Engaging Students in SAT001 Explore Advanced Technology Using Virtual Reality 使用虚拟现实让学生参与 SAT001
-- Yuang Zhou, Engaging Students in DES001 Explore Design Using Virtual Reality 使用虚拟现实让学生参与 DES001
-- Dingding Chen, An Application to Support Boulder Problems Creation in Gyms (iOS & Android) 体育馆抱石线路标记 App（iOS & 安卓） (🥇*Distinction*)
-- Junhan Lin, An Application to Support Boulder Problems Creation in Gyms (WeChat) 体育馆抱石线路标记 App （微信小程序） (🥇*Distinction*)
-- Yihao Shu, Interaction Techniques for Large Object Selection and Manipulation in Virtual Reality 虚拟现实中大型物体的交互技术
-- Ruizhe Kan, Collaborative Experience between Virtual Reality Users and Spectators 虚拟现实用户和观众之间的协作体验 (🥇*Distinction*)
-- Jiangyue Li, Informed or Interrupted: Exploring the Impact of Different Message Notification Methods in Virtual Reality 探索虚拟现实中不同消息通知方法的影响 (🥇*Distinction*)
-- Xingbo Wei, Virtual Reality Questionnaire Toolkit: Examining Interaction Techniques for Doing Questionnaires in VR 虚拟现实问卷工具包：研究 VR 环境中做问卷的交互技术 (🥇*Distinction*)
-- Letian Xie, An Employee Management System with Automated Classification of Employee Levels 员工管理系统及级别自动分类 (🥇*Distinction*)
-
-#### AY2021-2022 Master students and projects (FMP)
-- Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls
-- Jiayou Huang, BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality
-- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications (🥇*Distinction*)
-- Ninigning Xu, Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach (🥇*Distinction*)
-- Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation
-
-#### AY2020-2021 Undergraduate students and projects (FYP)
-- Ruihong Su, Optimal Decision on Computation Offloading in Vehicular Edge Computing Network (🥇*Distinction*)
-- Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples
+#### Master students and projects (SAT405/6 FMP)
+- Yukun Fu, AR Try-On: Interactive Virtual Try-On with Augmented Reality Based on Kinect, AY2022/23 (🥇*Distinction*)
+- Tianqi Huang, That’sMe: Avatar and Social Presence in Virtual Reality, AY2022/23 (🥇*Distinction*)
+- Yuwen Li, Easy Induction: A Serious Game Design to Help Freshmen Get Acquainted with XJTLU Through Participatory Design Workshops, AY2022/23 (🥇*Distinction*)
+- Jiachen Liang, ExploreVR: Explorative Learning in Virtual Environment, AY2022/23 (🥇*Distinction*)
+- Gongxi Su, Museum Artefact Metadata: Data Management and Visualization, AY2022/23 (🥇*Distinction*)
+- Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls, AY2021/22
+- Jiayou Huang, BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality, AY2021/22
+- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications, AY2021/22 (🥇*Distinction*)
+- Ninigning Xu, Optimising CubeMuseum For Cultural Artefact Learning and Museum Gifting: A Participatory Design Approach, AY2021/22 (🥇*Distinction*)
+- Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation, AY2021/22
 
 
 ## Selected Past Projects

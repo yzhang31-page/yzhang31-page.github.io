@@ -4,7 +4,7 @@ titles: About
 ---
 
 
-<a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/yue-li"><img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/8PWcWXwozR9kbffOuAYO.5217ba1e.jpg" height="auto" width="200" style="border-radius:50%; float: right"></a>
+<a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/yue-li"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:50%; float: right"></a>
 
 I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool Unviersity. 
 
@@ -38,13 +38,12 @@ I received my PhD degree from the **University of Nottingham** in 2020 with the 
 - **Science and Education Backbone Talents**, Suzhou City, 2022
 - **Shuangchuang PhD**, Jiangsu Province, 2022
 - **Best Paper Award & Best Presentation Award**, International Conference on Educational Technology, 2022
+- **Nomination**, IEEE VGTC Virtual Reality Outstanding Dissertation, 2022
 - **First Prize**, International Contest on Blended Teaching & Learning, 2021
-- **Outstanding Supervisor**, China Competition on Virtual Reality, 2021
-- **Nomination**, IEEE VR Best Dissertation Award, 2021
+- **Outstanding Supervisor**, China Competition on Virtual Reality, 2021 & 2022
 - **Tri-Campus Postgraduate Award**, University of Nottingham, 2020
 - **Best Student Paper Award**, University of Nottingham, 2019
-- **Postgraduate Teaching Award Highly Commended**, University of Nottingham, 2019
-- **Postgraduate Teaching Award Highly Commended**, University of Nottingham, 2018
+- **Postgraduate Teaching Award Highly Commended**, University of Nottingham, 2018 & 2019
 - **Vice-Chancellor’s Medal**, University of Nottingham, 2016
 - **Outstanding Graduate**, Zhejiang Education Bureau, 2016
 - **National Scholarship Award**, Chinese Ministry of Education, 2015

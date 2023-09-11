@@ -9,15 +9,21 @@ titles: Publications
 
 - <b>Li, Y.*</b>, Ch’ng, E., and Cobb, S. (Just Accepted). Factors Influencing Engagement in Hybrid Virtual and Augmented Reality. Transactions on Computer-Human Interaction. **[SCI Q2, CCF A]**
 
-- Wei, Y., Shi, R., Yu, D., Wang, Y., <b>Li, Y.</b>, Yu, L., and Liang, H. N.* (2023). Predicting Gaze-based Target Selection in Augmented Reality Headsets based on Eye and Head Endpoint Distributions. Conference on Human Factors in Computing Systems - Proceedings. <https://doi.org/10.1145/3544548.3581042> **[EI, CCF A]**
+- Qiu, F., and <b>Li, Y.*</b> (2023). Interactive Visualization of Sport Climbing Data. In Human-Computer Interaction – INTERACT 2023. Lecture Notes in Computer Science, vol 14145. Springer, Cham. https://doi.org/10.1007/978-3-031-42293-5_63 **[EI, CCF C]**
 
-- Wei, X., and <b>Li, Y.*</b> (2023). Evaluating User Performance , Workload , and Presence of Virtual Reality Questionnaires Using Joystick and Raycasting Selection Techniques. In 2023 the 7th International Conference on Virtual and Augmented Reality Simulations (ICVARS) (ICVARS 2023), March 03-05, 2023, Sydney, Australia (Vol. 1, Issue 1). Association for Computing Machinery. <https://doi.org/10.1145/3603421.3603426> **[EI]**
+- Fu, Y. and <b>Li, Y.*</b> (2023). Hanfu AR: Digital Twins of Traditional Chinese Costumes for Augmented Reality Try-On Systems. 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 1465-1470, http://doi.org/10.1109/COMPSAC57700.2023.00225 **[EI, CCF B]**
+
+- Liu, Y., Zhang, Z., Pan, Y., <b>Li, Y.</b>, Liang, H., Craig, P., & Yu, L. (2023). A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks. 2023 IEEE 16th Pacific Visualization Symposium (PacificVis). https://doi.org/10.1109/PacificVis56936.2023.00009 **[EI, CCF C]**
 
 - Zhang, S., <b>Li, Y.*</b>, Man, K. L., Yue, Y., and Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. <https://doi.org/10.1109/VRW58643.2023.00075> **[EI]**
 
 - Zhao, Z., <b>Li, Y.*</b>, Yu, L., and Liang, H.-N. (2023). TeleSteer: Combining Discrete and Continuous Locomotion Techniques in Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 755–756. <https://doi.org/10.1109/VRW58643.2023.00220> **[EI]**
 
 - Chai, K., <b>Li, Y.*</b>, Yu, L., and Liang, H.-N. (2023). HapticBox: Designing Hand-Held Thermal, Wetness, and Wind Stimuli for Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 873–874. <https://doi.org/10.1109/VRW58643.2023.00279> **[EI]**
+
+- Wei, Y., Shi, R., Yu, D., Wang, Y., <b>Li, Y.</b>, Yu, L., and Liang, H. N.* (2023). Predicting Gaze-based Target Selection in Augmented Reality Headsets based on Eye and Head Endpoint Distributions. Conference on Human Factors in Computing Systems - Proceedings. <https://doi.org/10.1145/3544548.3581042> **[EI, CCF A]**
+
+- Wei, X., and <b>Li, Y.*</b> (2023). Evaluating User Performance , Workload , and Presence of Virtual Reality Questionnaires Using Joystick and Raycasting Selection Techniques. In 2023 the 7th International Conference on Virtual and Augmented Reality Simulations (ICVARS) (ICVARS 2023), March 03-05, 2023, Sydney, Australia (Vol. 1, Issue 1). Association for Computing Machinery. <https://doi.org/10.1145/3603421.3603426> **[EI]**
 
 - Xu, N., <b>Li, Y.*</b>, Wei, X., Xie, L., Yu, L., and Liang, H.-N. (2023). CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting. International Journal of Human–Computer Interaction, 1–29. <https://doi.org/10.1080/10447318.2023.2171350> **[SCI Q1, CCF B]**
 
@@ -29,7 +35,7 @@ titles: Publications
 
 - Monteiro, D., Ma, T., <b>Li, Y.</b>, Pan, Z., and Liang, H.-N.* (2022). Cross-cultural factors influencing the adoption of virtual reality for practical learning. Universal Access in the Information Society. <https://doi.org/10.1007/s10209-022-00947-y> **[SCI Q3]**
 
-- Hou, Y., Liu, Y., Wang, H., Zhang, Z., <b>Li, Y.</b>, Liang, H.-N., and Yu, L.* (2022). DARC: A Visual Analytics System for Multivariate Applicant Data Aggregation, Reasoning and Comparison. Pacific Graphics 2022. Kyoto, Japan, 5-8 October 2022. <https://doi.org/10.2312/pg.20221248> **[EI, CCF B]**
+- Hou, Y., Liu, Y., Wang, H., Zhang, Z., <b>Li, Y.</b>, Liang, H.-N., and Yu, L.* (2022). DARC: A Visual Analytics System for Multivariate Applicant Data Aggregation, Reasoning and Comparison. Pacific Conference on Computer Graphics and Applications 2022. Kyoto, Japan, 5-8 October 2022. <https://doi.org/10.2312/pg.20221248> **[EI, CCF B]**
 
 - Chai, K. and <b>Li, Y.*</b> (2022). Cultural Heritage Assets Optimization Workflow for Interactive System Development. IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). Torino, Italy (Virtual), 27 June - 1 July 2022. <https://doi.org/10.1109/COMPSAC54236.2022.00290> **[EI, CCF B]**
 
