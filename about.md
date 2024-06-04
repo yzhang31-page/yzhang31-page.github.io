@@ -4,13 +4,15 @@ titles: About
 ---
 
 
-<a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/yue-li"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
+<a href="https://scholar.xjtlu.edu.cn/en/persons/YueLi"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
 
-I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool Unviersity. 
+I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool University. 
 
-My research interest is in the field of **Human Computer Interaction (HCI)**, with particular emphasis on **Virtual Reality (VR)** and **Augmented Reality (AR)** technologies. I have been actively involved in research related to the design, evaluation and application of VR and AR in the social context, particularly the technology-enhanced learning activities in **cultural heritage** and **education**. 
+My research interest is in the field of **Human Computer Interaction (HCI)**, with particular emphasis on **Extended Reality (XR)** technologies. I have been actively involved in research related to the design, evaluation, and application of VR and AR in **cultural heritage** and **education**. 
 
 I received my PhD degree from the **University of Nottingham** in 2020 with the Postgraduate Award. During my PhD study, I worked at the NVIDIA Joint-Lab on Mixed Reality in Ningbo and the Mixed Reality Lab in Nottingham UK.
+
+Currently I am leading several prestigious research grants, including the Young Scientist Programme of the **National Natural Science Foundation of China (NSFC)** and the General Programme of the **Natural Science Foundation of the Jiangsu Higher Education Institutions of China**. My scholarly contributions have found publication in esteemed international journals and conferences such as ACM ToCHI, IJHCI, ACM JoCCH, ACM CHI, IEEE VR, IEEE ISMAR, and so on. I serve as the China Country Representative at the IFIP Technical Committee on Human–Computer Interaction (TC13). I also hold an executive member role in the CCF HCI Committee and I am a professional member of BCS, ACM, IEEE, and IET. My commitment to the field is underscored by my long-standing service and regular engagement as an editorial board member, program committee member, and reviewer for international journals and conferences. I served as the Online Experience Co-Chair in IEEE VR 2023, the Student Competition Co-Chair in IEEE ISMAR 2023, and the Poster Co-Chair in IEEE AIxVR 2024.
 
 ## Education
 - **PhD** in Computer Science (with Tri-Campus Postgraduate Award), University of Nottingham, 2016-2020
