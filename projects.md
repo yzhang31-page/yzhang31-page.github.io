@@ -59,6 +59,9 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - 🎖 **Finalist**. Ningning Xu, Shuhao Zhang, Kedong Chai, Ruizhang Zhao, and Mingze Wu, CUSMO. MobileHCI 2022. Vancouver, Canada. September 28 – October 1, 2022.
 
 #### National Student Competitions 
+- 🥇 **First Prize**. Jiachen Liang, Fanpei Liu, and Yu Cheng, A Multiuser AR Boardgame for the Museum of Wu. China VR Student Innovation Design Competition 2024. Xiamen, China. 16-17 November 2024.
+- 🥈 **Second Prize**. Bingqing Chen and Wenqi Chu, Sound of Museum Artifacts. China VR Student Innovation Design Competition 2024. Xiamen, China. 16-17 November 2024.
+- 🥉 **Third Prize**. Kai Chen, Nanyin VR. China VR Student Innovation Design Competition 2024. Xiamen, China. 16-17 November 2024.
 - 🥇 **First Prize**. Yinuo Wang, Jiarui Chen, and Jiachen Liang, Explore! Suzhou Shuangta. CCVR 2023. Suzhou, China. November 16-17, 2023.
 - 🥇 **First Prize**. Yu Cheng and Mingge Ma, Night at the Museum. CCVR 2023. Suzhou, China. November 16-17, 2023.
 - 🥇 **First Prize**. Jiayi Zhao and Wanyi Tao, Heritage Marathon: A Journey of Clues. CCVR 2023. Suzhou, China. November 16-17, 2023.
@@ -79,12 +82,16 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 
 
 #### Undergraduate students and projects (SAT301 FYP)
+-	Haojun Shen, Development and Evaluation of a Network Framework for Multiuser Cross-Reality Experience, AY2023/24
+-	Jiayi Zhao, Differences between VR and AR in Cultural Heritage Active Learning: A Comparative Study based on the SOR model and Engagement Theory, AY2023/24 (🥇*Distinction*)
+-	Mingge Ma, The Impact of AI Agents in the Virtual Museum, AY2023/24 (🥇*Distinction*, 📝 *Published in IJHCI, SCI Q1, CCF B*)
+-	Yuexin Yao, Textual Information Presentation in Virtual Museums: Exploring Environment-, Object-, and User-based ApproachesAY2023/24 (🥇*Distinction*, 📝 *Published in IEEE ISMAR 2024, CCF B*)
 - Mingze Wu, LonelyDance: Examining Player Experience, Performance and Social Acceptability of Dance Exergaming in Virtual Reality, AY2022/23 (🥇*Distinction*)
 - Ruixiang Zhao, LetMeHear: Comparing the Effects of Visual and Auditory Stimuli on User Emotion and Engagement in Virtual Reality, AY2022/23 (🥇*Distinction*)
 - Xuansheng Xia, Evaluating the Degree of Involvement in Multiusers Asymmetric Virtual Reality, AY2022/23 (🥇*Distinction*, 📝 *Published in ISMAR 2023, CCF B*)
-- Ziyue Zhao, LeanOn: Simulating Balance Vehicle Locomotion in Virtual Environments, AY2022/23 (🥇*Distinction*, 📝 *Published in ISMAR 2023, CCF B*)
-- Yifan Wang, Artifacts Interactions in Virtual Museums, AY2022/23 (🥇*Distinction*, 📝 *Published in ISMAR 2023, CCF B*)
-- Fangze Qiu, D-IFSC: Data Visualization of IFSC Sport Climbing Competition and Athlete Data, AY2022/23 (🥇*Distinction*)
+- Ziyue Zhao, LeanOn: Simulating Balance Vehicle Locomotion in Virtual Environments, AY2022/23 (🥇*Distinction*, 📝 *Published in IEEE ISMAR 2023, CCF B*)
+- Yifan Wang, Artifacts Interactions in Virtual Museums, AY2022/23 (🥇*Distinction*, 📝 *Published in IEEE ISMAR 2023, CCF B*)
+- Fangze Qiu, D-IFSC: Data Visualization of IFSC Sport Climbing Competition and Athlete Data, AY2022/23 (🥇*Distinction*, 📝 *Published in INTERACT 2023, CCF B*)
 - Chongxi Yu, An Efficiency Application to Manage Time and Wealth (WeChat Mini Program), AY2022/23 
 - Bingjie Xie, An Efficiency Application to Manage Time and Wealth (Web App), AY2022/23
 - Dingding Chen, An Application to Support Boulder Problems Creation in Gyms (iOS & Android), AY2021/22 (🥇*Distinction*)
@@ -100,6 +107,27 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Wentao Wang, Comparing Speaker-Dependent and Speaker-Independent Speech Recognition Systems: Using Siri and Xiaodu as Examples, AY2020/21
 
 #### Master students and projects (SAT405/6 FMP)
+-	Wenlu Wang, A Gamified Social-Interactive Tourism System Integrating Physical Souvenirs with Digital Experience, AY2024/25 (🥇*Distinction*)
+-	Shimeng Xiao, Technology Adoption in Museums and Tourism, AY2024/25 (🥇*Distinction*)
+-	Ziyi Xu, Enhancing Cultural Heritage Appreciation: An Interactive Platform Utilizing AI and Data Visualization for Cultural Relic Appreciation, AY2024/25 (🥇*Distinction*)
+-	Gezhou Yang, Analyzing Tourist Sentiment and Engagement on Xiaohongshu: A Case Study of Suzhou's UNESCO Cultural Heritage Gardens, AY2024/25
+-	Runze Yang, GestureMove: Supporting User-Defined Gestures for Locomotion in Virtual Reality, AY2024/25
+-	Kai Chen, NanyinVR: An Immersive VR System for Experiencing Traditional Chinese Musical Performing Art, AY2024/25 (🥇*Distinction*)
+-	Xulong Li, Performance Optimization of 3D Unity Gaming on Mobile Devices, AY2024/25 (🥇*Distinction*)
+-	Jiacheng Li, Towards Modeling Distracted Human Driving: Sensor Fusion and Driver Status Monitoring in a VR Simulator, AY2024/25 (🥇*Distinction*)
+-	Jia Zhang, Passthrough and 3D Reconstruction Views: Enhancing Transition and Interaction from Virtual to Reality, AY2024/25 (🥇*Distinction*)
+-	Yafei Zhang, Design and Development of a Web App for the Twenty-Four Solar Terms, AY2024/25 (🥇*Distinction*)
+-	Xingzhi Zhao, Typical Manufacturing Process Data Analysis and Visualization, AY2024/25 (🥇*Distinction*)
+-	Dingding Chen, Development of a Material Database with Machine Learning Algorithms for Ductility Prediction, AY2023/24 (🥇*Distinction*)
+-	Zelin Jiang, Research on the Impact of Different Patterns and Devices on a Multiplayer Asymmetric Virtual Educational Game: Fire Escape, AY2023/24 (🥇*Distinction*, 📝 *Published in IEEE ICVR 2024*)
+-	Qianru Liu, User Defined Gestures for Virtual Museums: An Elicitation Study, AY2023/24 (🥇*Distinction*， 📝 *Published in IEEE ISMAR 2024, CCF B*)
+-	Minyan Su, Design, Development, and Evaluation of an Educational Game: An Interactive 3D Universe Educational Game System, AY2023/24 (🥇*Distinction*)
+-	Zhiwei Chen, CoreLog: Data Analytics of Learning Mall Student Engagement, AY2023/24
+-	Liang Li, Digital Twins and Smart Campus: A Case Study of XJTLU, AY2023/24 (🥇*Distinction*, 📝 *Published in AAB 2024*)
+-	Xiaojie Wang (MSc Cultural and Creative Industry), Vanishing Timeline: Interaction Design for Immersive VR VIdeos, AY2023/24 (🥇*Distinction*， 📝 *Published in IEEE ISMAR 2024, CCF B*)
+- Youwen Wu, The Effects of Avatar on Collaborative Social Interactions in Metaverse: A Theoretical Model and Empirical Evidence, AY2023/24 (🥇*Distinction*)
+- Guanjie Xu, A Study on the Effect of Closed-Loop Brain-Computer Interface on Brain Execution and Decision Preferences, AY2023/24 (🥇*Distinction*)
+- Jianli Zhang, Web-based Personal Virtual Museum Creation and Immersive Visualization, AY2023/24 (🥇*Distinction*)
 - Yukun Fu, AR Try-On: Interactive Virtual Try-On with Augmented Reality Based on Kinect, AY2022/23 (🥇*Distinction*, 📝 *Published in COMPSAC 2023, CCF B*)
 - Tianqi Huang, That’sMe: Avatar and Social Presence in Virtual Reality, AY2022/23 (🥇*Distinction*, 📝 *Published in ChineseCHI 2023*)
 - Yuwen Li, Easy Induction: A Serious Game Design to Help Freshmen Get Acquainted with XJTLU Through Participatory Design Workshops, AY2022/23 (🥇*Distinction*, 📝 *Published in CHIRA 2023*)
@@ -107,12 +135,12 @@ For XJTLU students who are interested in doing projects with me, please feel fre
 - Gongxi Su, Museum Artefact Metadata: Data Management and Visualization, AY2022/23 (🥇*Distinction*)
 - Shiying Cai, PublicVR: Virtual Reality Arcades in Chinese Shopping Malls, AY2021/22
 - Jiayou Huang, BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality, AY2021/22
-- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications, AY2021/22 (🥇*Distinction*, 📝 *Published in ISMAR 2022, CCF B*)
+- Jie Lin, An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications, AY2021/22 (🥇*Distinction*, 📝 *Published in IEEE ISMAR 2022, CCF B*)
 - Ninigning Xu, Optimising CubeMuseum For Cultural Artefact Learning and Museum Gifting: A Participatory Design Approach, AY2021/22 (🥇*Distinction*, 📝 *Published in IJHCI, SCI Q1, CCF B*)
 - Enhao Yang, Investigating User Acceptance of 360° Virtual Navigation, AY2021/22
 
 
-## Selected Past Projects
+<!-- ## Selected Past Projects
 <div class="grid-container" style="padding:10px">
   <div class="grid grid--p-3">
     <!-- <div class="cell cell--4">
@@ -146,7 +174,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
           </div>
         </div>  
       </div>
-    </div> -->
+    </div> 
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -194,7 +222,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
           </div>
         </div>  
       </div>
-    </div> -->
+    </div> 
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -349,7 +377,7 @@ For XJTLU students who are interested in doing projects with me, please feel fre
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 ## Events and Exhibitions
 
