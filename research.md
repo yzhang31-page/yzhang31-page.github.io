@@ -8,7 +8,7 @@ titles: Research
 ## Publications
 - Kaido, H., & Zhang, Y. (2023). Applications of Choquet expected utility to hypothesis testing with incompleteness. The Japanese Economic Review, 74(4), 551-572.
 
-## Textbook
+## Books
 - ZiZhong Y. & Zhang, Y. (2024). Pyhton Programming for Econometrics, published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
 
 ## Working Papers
