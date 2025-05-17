@@ -265,71 +265,7 @@ RMB), 2023-2025.
   </div>
 </div> -->
 
-## Events and Exhibitions
-
-<div class="item">
-  <div class="item__image">
-    <img class="image image--xl" src="/assets/projects/event-ahrc.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>UK-China Creative Industries Showcase</h4>
-    </div>
-    <div class="item__description">
-      <p>@ Shanghai, 2 December 2019</p>
-      <p>The event brought together leading academics, creative businesses and representatives from funding agencies from both China and UK, for the exploration of key opportunities and challenges to consolidate partnerships and future collaboration. </p>
-      <p>The NVIDIA Joint-Lab on Mixed Reality was invited to the event as one of the six representatives. I presented my system demos and experiment findings as part of our lab’s research highlights.</p>
-    </div>
-  </div>
-</div>
-
-<div class="item">
-  <div class="item__image">
-    <img class="image image--xl" src="/assets/projects/event-spark.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>SPARK: The Science and Art of Creativity</h4>
-    </div>
-    <div class="item__description">
-      <p>@ Tai Kwun, Hong Kong, 18-20 January 2019</p>
-      <p>SPARK is a British Council Festival of Ideas. It celebrates the best of UK and HK creativity across the arts, sciences and education, and offers a platform for cultural exchange between the UK and Hong Kong. </p>
-      <p>The NVIDIA Joint-Lab on Mixed Reality was invited to the event and I was one of the exhibitors. During the event, my AR cube and hybrid VR and AR system were presented to the audience.</p>
-    </div>
-  </div>
-</div>
-
-<div class="item">
-  <div class="item__image">
-    <img class="image image--xl" src="/assets/projects/event-impactfes.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>UK Research and Innovation (UKRI) Impact Festival</h4>
-    </div>
-    <div class="item__description">
-      <p>@ Beijing, 8 November 2018</p>
-      <p>The UKRI Impact Festival showcases innovative technologies, demonstrating the impact and breadth of research and innovation collaboration between the UK and China. </p>
-      <p>I was featured in the digital cultural heritage episode of the Inspiring Research documentary as a member of NVIDIA Joint-Lab (<a class="button button--secondary button--pill button--xs" href="https://www.youtube.com/watch?v=c7pQVWeZ4Yc">Video</a>) and presented my research in the event.</p>
-    </div>
-  </div>
-</div>
-
-<div class="item">
-  <div class="item__image">
-    <img class="image image--xl" src="/assets/projects/event-greatfes.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>UK-China GREAT Festival of Creativity</h4>
-    </div>
-    <div class="item__description">
-      <p>@ Shanghai, 2-4 March 2015</p>
-      <p>Co-organised by the UK Embassy, the China-British Business Council, the British Council and UK Trade & Investment, the festival showcases British innovation and creativity in various domains.</p>
-      <p>Sharing a stage with Prince William, Duke of Cambridge and Sir Tim Berners-Lee, I took part in a session on smart cities and delivered a speech with AR holograms (news links: <a class="button button--secondary button--pill button--xs" href="http://qjwb.thehour.cn/html/2015-03/04/content_2979335.htm?div=-1">CN</a><a class="button button--secondary button--pill button--xs" href="https://www.nottingham.edu.cn/en/news/2015/unnc-students-play-prominent-role-in-uk-china-great-festival-of-creativity.aspx">EN</a>)</p>
-    </div>
-  </div>
-</div>
+## Presentations
 
 
 <!--
