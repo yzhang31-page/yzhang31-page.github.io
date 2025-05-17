@@ -5,7 +5,7 @@ titles: Resaerch
 #   toc: true
 ---
 
-## Current Projects
+## Current Resaerch
 
 **I have a <span style="color: red;">PhD scholarship</span> for a potential candidate working on a project related to Virtual Reality Education Technology for Smart Museums.** The student will be awarded a PhD degree from the University of Liverpool (UK) upon successful completion of the program. 
 
