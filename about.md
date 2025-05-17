@@ -2,8 +2,9 @@
 layout: article
 titles: About
 ---
-
-Associate Professor (without tenure) at Institute Economic and Social Research (IESR) , Jinan University. 
+## Welcome to My Page!
+Position:
+Associate Professor (non-tenured) at Institute Economic and Social Research (IESR) , Jinan University. 
 
 Fields of interests: 
 - **Theoretical Econometrics**, with particular interests on **Incomplete Economic Models**.
