@@ -26,7 +26,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Resaerch
+      en      : &EN       Research
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -47,7 +47,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /resaerch.html
+    url: /research.html
 
   - titles:
       # @start locale config
