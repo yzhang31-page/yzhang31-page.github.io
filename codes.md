@@ -5,7 +5,11 @@ titles: Codes
 #   toc: true
 ---
 
-#### Kaido and Zhang (2023) JER: Replication Code
+### Kaido and Zhang (2023) JER: Replication Code
 - update soon (https://github.com)
-#### Kaido and Zhang (2025): Replication Code
+  
+### Kaido and Zhang (2025): Replication Code
 - update soon
+
+### Inference for Incomplete model packages:
+- coming soon
