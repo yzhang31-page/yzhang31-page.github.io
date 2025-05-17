@@ -14,11 +14,11 @@ titles: Research
 ## Working Papers
 - Kaido, H., & Zhang, Y. (2025). Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973. (Under Review)
 - Kaido, H., & Zhang, Y. (2023). Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610. (Rejected and Resubmited at Econometrica)
-- Zizhong, Y., Jingrong, L., Zhang, Y. (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity
-- Zhang,Y. (2020). Inference for Incomplete Strategic Network Formation Models
+- Zizhong, Y., Jingrong, L., Zhang, Y. (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.
+- Zhang,Y. (2020). Inference for Incomplete Strategic Network Formation Models.
 
 ## Work in progress
--	Heterogeneous Peer Effects for Disadvantaged Students (joint with Shuaizhang Feng, Yujie Han, Zizhong Yan)
+-	Heterogeneous Peer Effects for Disadvantaged Students (joint with Shuaizhang Feng, Yujie Han, Zizhong Yan).
 
 ## Research Grants
 - Robust likelihood ratio test for incomplete economic model and its applications.Supported by National Natural Science Foundation of China (NSFC)(Project ID:72203077, Amount:300K
