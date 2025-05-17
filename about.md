@@ -3,12 +3,9 @@ layout: article
 titles: About
 ---
 
+Associate Professor (without tenure) at Institute Economic and Social Research (IESR) , Jinan University. 
 
-<a href="https://scholar.xjtlu.edu.cn/en/persons/YueLi"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
-
-I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool University. 
-
-My research interest is in the field of **Human Computer Interaction (HCI)**, with particular emphasis on **Extended Reality (XR)** technologies. I have been actively involved in research related to the design, evaluation, and application of VR and AR in **cultural heritage** and **education**. 
+Research interests: **Theoretical Econometrics**, with particular emphasis on **Incomplete Economic Models**. **Applied Econometrics** and **Economic and Social Networks**. 
 
 I received my PhD degree from the **University of Nottingham** in 2020 with the Postgraduate Award. During my PhD study, I worked at the NVIDIA Joint-Lab on Mixed Reality in Ningbo and the Mixed Reality Lab in Nottingham UK.
 
