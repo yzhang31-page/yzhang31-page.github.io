@@ -6,7 +6,7 @@ titles: About
 Associate Professor (without tenure) at Institute Economic and Social Research (IESR) , Jinan University. 
 
 Fields of interests: 
-- **Theoretical Econometrics**, with particular emphasis on **Incomplete Economic Models**.
+- **Theoretical Econometrics**, with particular interests on **Incomplete Economic Models**.
 - **Applied Econometrics**
 - **Economic and Social Networks**. 
 
