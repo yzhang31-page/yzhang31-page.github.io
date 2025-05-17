@@ -1,11 +1,11 @@
 ---
 layout: article
-titles: Resaerch
+titles: Research
 # aside:
 #   toc: true
 ---
 
-## Current Resaerch
+## Publications
 
 **I have a <span style="color: red;">PhD scholarship</span> for a potential candidate working on a project related to Virtual Reality Education Technology for Smart Museums.** The student will be awarded a PhD degree from the University of Liverpool (UK) upon successful completion of the program. 
 
@@ -38,7 +38,7 @@ See [IOM411](http://modules.xjtlu.edu.cn/mod?mod_code=IOM001) for more details. 
 The smart museum is a new trend driven by the national strategy and a foundational project to make cultural relics ‘come alive’, and Virtual Reality (VR) technology has become the key technology for the construction of smart museums. However, there are still many key problems to be solved in the construction of smart museums. In view of the insufficient understanding of the learning mechanisms, limited interactive experience and lack of public engagement in the smart museum, this project plans to carry out research work on virtual environment learning mechanisms, display and interaction techniques, and virtual curation practices. Combining theoretical methods from pedagogy, museology, computer science, informatics and other interdisciplinary fields, this research will conduct empirical studies and analysis to clarify the key mechanisms for users to actively participate in cultural heritage learning within the virtual environment. With combined user activity monitoring and brain-computer interface technology, user interaction intention and behavior models will be constructed to explore display approaches and interaction techniques in the virtual learning environment. This project aims to make contributions to the field of VR education, and to provide insights for the construction and development of smart museums. -->
 
 
-#### Research Assistant Projects
+#### 
 
 - Virtual Reality Education Technology for Smart Museums
 - Extended Reality Collaboration Technology for Metaverse
@@ -47,7 +47,7 @@ The smart museum is a new trend driven by the national strategy and a foundation
 - ... any other projects that align with my research interests :)
 <!-- Virtual Reality (VR) is being increasingly adopted in education, training, exhibition, and entertainment, lots of which are embedded within specific social contexts. Current uses of head-mounted display (HMD) support immersive experience by isolating users from the real world, whereas spectators around are only allowed to passively observe a VR user’s firstperson perspective. This limitation restricts the use of VR in the social context, such as classrooms and museums, where activities take place among a group of people and social interactions are expected. To better support the use of VR in such inherent social context, this research aims to investigate the interaction techniques for engaging spectators in VR and to provide guidelines for designing socially acceptable VR experience. -->
 
-## Student Projects
+## Working Papers
 I am happy to supervise student dissertations and final year projects in SAT301, SAT405 and SAT406, as well as summer research for HCI/VR/AR related projects and student competitions.
 
 For XJTLU students who are interested in doing projects with me, please feel free to send me an email: yue.li@xjtlu.edu.cn.
