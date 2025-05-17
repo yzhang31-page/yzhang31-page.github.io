@@ -7,13 +7,9 @@ Associate Professor (without tenure) at Institute Economic and Social Research (
 
 Research interests: **Theoretical Econometrics**, with particular emphasis on **Incomplete Economic Models**. **Applied Econometrics** and **Economic and Social Networks**. 
 
-I received my PhD degree from the **University of Nottingham** in 2020 with the Postgraduate Award. During my PhD study, I worked at the NVIDIA Joint-Lab on Mixed Reality in Ningbo and the Mixed Reality Lab in Nottingham UK.
-
-Currently I am leading several prestigious research grants, including the Young Scientist Programme of the **National Natural Science Foundation of China (NSFC)** and the General Programme of the **Natural Science Foundation of the Jiangsu Higher Education Institutions of China**. My scholarly contributions have found publication in esteemed international journals and conferences such as ACM ToCHI, IJHCI, ACM JoCCH, ACM CHI, IEEE VR, IEEE ISMAR, and so on. I serve as the China Country Representative at the IFIP Technical Committee on Human–Computer Interaction (TC13). I also hold an executive member role in the CCF HCI Committee and I am a professional member of BCS, ACM, IEEE, and IET. My commitment to the field is underscored by my long-standing service and regular engagement as an editorial board member, program committee member, and reviewer for international journals and conferences. I served as the Online Experience Co-Chair in IEEE VR 2023, the Student Competition Co-Chair in IEEE ISMAR 2023, and the Poster Co-Chair in IEEE AIxVR 2024.
-
 ## Education
-- **PhD** in Computer Science (with Tri-Campus Postgraduate Award), University of Nottingham, 2016-2020
-- **BSc** in Computer Science (with Vice-Chancellor’s Medal and Presidential Award), University of Nottingham, 2012-2016
+- **Ph.D.** in Economics, Boston University, 2012-2018
+- **BS** in Economics with additional major in Mathematics, Michigan State University, 2008-2012
 
 ## Experience
 - **Research Associate** @ Virtual Engineering Center, Xi’an Jiaotong-Liverpool University, Dec 2019 - May 2020
