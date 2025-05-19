@@ -7,13 +7,14 @@ titles: Research
 
 ## Publications
 - Kaido, H., & Zhang, Y. (2023). Applications of Choquet expected utility to hypothesis testing with incompleteness. The Japanese Economic Review, 74(4), 551-572.
+  Special Issue: Statistical Decision Theory and Treatment Choice, T. Kitagawa and A. Tetenov (eds.)
 
 ## Books
-- ZiZhong Y. & Zhang, Y. (2024). Pyhton Programming for Econometrics, published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
+- ZiZhong Y. & Zhang, Y. (2024). Python Programming for Econometrics, published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
 
 ## Working Papers
 - Kaido, H., & Zhang, Y. (2025). Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973. (Under Review)
-- Kaido, H., & Zhang, Y. (2023). Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610. (Rejected and Resubmited at Econometrica)
+- Kaido, H., & Zhang, Y. (2023). Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610. (Rejected and Resubmitted at Econometrica)
 - Zizhong, Y., Jingrong, L., Zhang, Y. (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.
 - Zhang,Y. (2020). Inference for Incomplete Strategic Network Formation Models.
 
@@ -264,9 +265,6 @@ RMB), 2023-2025.
     </div>
   </div>
 </div> -->
-
-## Presentations
-
 
 <!--
 #### UK-China Creative Industries Showcase @ Shanghai, 2 December 2019
