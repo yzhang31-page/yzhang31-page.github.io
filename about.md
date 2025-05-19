@@ -2,13 +2,13 @@
 layout: article
 titles: About
 ---
-## Welcome to My Page!
+## Welcome to My Website!
 Positions:
 - Oct.2024-present Associate Professor (non-tenured) at Institute Economic and Social Research (IESR) , Jinan University
 - Oct.2018-Sep.2023 Assistant Professor at at Institute Economic and Social Research (IESR) , Jinan University
 
 Fields of interests: 
-- **Theoretical Econometrics**, with particular interests on **Incomplete Economic Models**.
+- **Theoretical Econometrics**, with particular interests in **Incomplete Economic Models**.
 - **Applied Econometrics**
 - **Economic and Social Networks**. 
 
