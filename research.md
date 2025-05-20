@@ -6,25 +6,24 @@ titles: Research
 ---
 
 ## Publications
-- [Kaido, H.](https://people.bu.edu/hkaido/), & Zhang, Y. (2023). Applications of Choquet expected utility to hypothesis testing with incompleteness. The Japanese Economic Review, 74(4), 551-572.
+- [Hiroaki Kaido](https://people.bu.edu/hkaido/), & Yi Zhang (2023). [Applications of Choquet expected utility to hypothesis testing with incompleteness](https://link.springer.com/article/10.1007/s42973-023-00146-1). The Japanese Economic Review, 74(4), 551-572.
   Special Issue: Statistical Decision Theory and Treatment Choice, T. Kitagawa and A. Tetenov (eds.)
 
 ## Books
-- ZiZhong Y. & Zhang, Y. (2024). Python Programming for Econometrics, published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
+- [ZiZhong Yan](https://iesr.jnu.edu.cn/2019/0821/c17702a404538/page.psp) & Yi Zhang (2024). [Python Programming for Econometrics](pythonmetrics.com), published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
 
 ## Working Papers
-- Kaido, H., & Zhang, Y. (2025). Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973. (Under Review)
-- Kaido, H., & Zhang, Y. (2023). Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610. (Rejected and Resubmitted at Econometrica)
-- Zizhong, Y., Jingrong, L., Zhang, Y. (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.
-- Zhang,Y. (2020). Inference for Incomplete Strategic Network Formation Models.
+- Hiroaki Kaido & Yi Zhang (2025). [Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973](https://arxiv.org/abs/2501.17973). (Under Review)
+- Hiroaki Kaido & Yi Zhang (2023). [Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610](https://arxiv.org/abs/1910.04610). (Rejected and Resubmitted at Econometrica)
+- Zizhong Yan, Jingrong Li, Yi Zhang (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.
+- Yi Zhang (2020). Inference for Incomplete Strategic Network Formation Models.
 
 ## Work in progress
--	Heterogeneous Peer Effects for Disadvantaged Students (joint with Shuaizhang Feng, Yujie Han, Zizhong Yan).
+-	Heterogeneous Peer Effects for Disadvantaged Students (joint with Zizhong Yan, Yujie Han, Shuaizhang Feng).
 
 ## Research Grants
-- Robust likelihood ratio test for incomplete economic model and its applications.Supported by National Natural Science Foundation of China (NSFC)(Project ID:72203077, Amount:300K
-RMB), 2023-2025.
-- Textbook Project Supported by Teaching Reform Fund of Jinan University (Amount:60k RMB), 2022-2024.
+- Robust likelihood ratio test for incomplete economic model and its applications.Supported by National Natural Science Foundation of China (NSFC)(Fund ID:72203077), 2023-2025.
+- Textbook Project Supported by Teaching Reform Fund of Jinan University, 2022-2024.
 
 
 <!-- ## Selected Past Projects
