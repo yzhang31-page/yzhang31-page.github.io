@@ -6,7 +6,7 @@ titles: Research
 ---
 
 ## Publications
-- Kaido, H., & Zhang, Y. (2023). Applications of Choquet expected utility to hypothesis testing with incompleteness. The Japanese Economic Review, 74(4), 551-572.
+- [Kaido, H.](https://people.bu.edu/hkaido/), & Zhang, Y. (2023). Applications of Choquet expected utility to hypothesis testing with incompleteness. The Japanese Economic Review, 74(4), 551-572.
   Special Issue: Statistical Decision Theory and Treatment Choice, T. Kitagawa and A. Tetenov (eds.)
 
 ## Books
