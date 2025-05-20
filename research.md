@@ -13,8 +13,8 @@ titles: Research
 - [Zizhong Yan](https://iesr.jnu.edu.cn/2019/0821/c17702a404538/page.psp) & **Yi Zhang** (2024). [Python Programming for Econometrics](https://pythonmetrics.com), published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
 
 ## Working Papers
-- Hiroaki Kaido & Yi Zhang (2025). [Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973](https://arxiv.org/abs/2501.17973). (Under Review)
-- Hiroaki Kaido & Yi Zhang (2023). [Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610](https://arxiv.org/abs/1910.04610). (Rejected and Resubmitted at Econometrica)
+- Hiroaki Kaido & Yi Zhang (2025). [Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973](https://arxiv.org/abs/2501.17973). (*Under Review*)
+- Hiroaki Kaido & Yi Zhang (2023). [Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610](https://arxiv.org/abs/1910.04610). (*Rejected and Resubmitted at Econometrica*)
 - Zizhong Yan, Jingrong Li, Yi Zhang (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.
 - Yi Zhang (2020). Inference for Incomplete Strategic Network Formation Models.
 
