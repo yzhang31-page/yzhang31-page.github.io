@@ -13,12 +13,14 @@ titles: Research
 - [Zizhong Yan](https://iesr.jnu.edu.cn/2019/0821/c17702a404538/page.psp) & **Yi Zhang** (2024). [Python Programming for Econometrics](https://pythonmetrics.com), published by China Finance & Economy Media Group Co. Ltd. (ISBN: 978-7-5223-2710-5)
 
 ## Working Papers
-- Hiroaki Kaido & Yi Zhang (2025). [Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973](https://arxiv.org/abs/2501.17973). (*Under Review*)
-- Hiroaki Kaido & Yi Zhang (2023). [Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610](https://arxiv.org/abs/1910.04610). (*Rejected and Resubmitted at Econometrica*)
-- Zizhong Yan, Jingrong Li, Yi Zhang (2024). Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.
+- Hiroaki Kaido & Yi Zhang (2026). [Universal Inference for Incomplete Discrete Choice Models. arXiv preprint arXiv:2501.17973](https://arxiv.org/abs/2501.17973). (*Under Review*)
+- Hiroaki Kaido & Yi Zhang (2025). [Robust likelihood ratio tests for incomplete economic models. arXiv preprint arXiv:1910.04610](https://arxiv.org/abs/1910.04610). (*Under Review*)
+- Zizhong Yan, Jingrong Li, Yi Zhang (2026). [Econometric Models of Network Formation with Mutual Linking Externality and Degree Heterogeneity.arXiv preprint arXiv:2605.00771](https://arxiv.org/abs/2605.00771).(Revise and Resubmit at Quantitative Economics)
 - Yi Zhang (2020). Inference for Incomplete Strategic Network Formation Models.
 
 ## Work in progress
+- Reproducible and Power-Dominant of Universal Inference for Incomplete Economic Models
+- Universal Inference for LLM-Based Prevalence
 -	Heterogeneous Peer Effects for Disadvantaged Students (joint with Zizhong Yan, Yujie Han, Shuaizhang Feng).
 
 ## Research Grants
